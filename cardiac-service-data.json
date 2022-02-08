@@ -1,0 +1,3808 @@
+{
+  "users":[
+    {
+      "name":"Biloela Cardiac Rehabilitation Program",
+      "address":"2 Hospital Road Biloela, QLD 4715",
+      "location":{
+        "lat":-24.3955093,
+        "lng":150.5175549
+      },
+      "tags":"",
+      "phone":"07 4992 7000",
+      "website":"/service/Biloela_Cardiac_Rehabilitation_Program",
+      "email":"CardiacRehab.Banana@health.qld.gov.au"
+    },
+    {
+      "name":"Hedland Health Campus Cardiac Rehabilitation Program",
+      "address":"2-34 Colebatch Way South Hedland, WA 6722",
+      "location":{
+        "lat":-20.4135409,
+        "lng":118.5981777
+      },
+      "tags":"",
+      "phone":"08 9174 1357",
+      "website":"/service/Hedland_Health_Campus_Cardiac_Rehabilitation_Program",
+      "email":"WACHSPB_AlliedHealth@health.wa.gov.au"
+    },
+    {
+      "name":"St John of God Ballarat Hospital - Cardiac Rehabilitation Program",
+      "address":"101 Drummond Street North Lake Wendouree, VIC 3350",
+      "location":{
+        "lat":-37.5601158,
+        "lng":143.8470306
+      },
+      "tags":"",
+      "phone":"03 5320 2592",
+      "website":"/service/St_John_of_God_Ballarat_Hospital_-_Cardiac_Rehabilitation_Program",
+      "email":"ballarat.outpatient.rehabilitation@sjog.org.au"
+    },
+    {
+      "name":"Deakin Clinical Exercise Centre (DCEC)",
+      "address":"221 Burwood Highway Burwood, VIC 3125",
+      "location":{
+        "lat":-37.8493578,
+        "lng":145.1148984
+      },
+      "tags":"",
+      "phone":"03 9244 5442",
+      "website":"/service/Deakin_Clinical_Exercise_Centre_DCEC",
+      "email":"celc@deakin.edu.au"
+    },
+    {
+      "name":"Flinders Medical Centre",
+      "address":"Flinders Drive Bedford Park, SA 5042",
+      "location":{
+        "lat":-35.021668,
+        "lng":138.5676786
+      },
+      "tags":"",
+      "phone":"08 8204 4001",
+      "website":"/service/Flinders_Medical_Centre",
+      "email":"fmc.cardiacrehab@health.sa.gov.au"
+    },
+    {
+      "name":"Cardiac Rehabilitation Wollongong Hospital",
+      "address":"Loftus Street Wollongong, NSW 2500",
+      "location":{
+        "lat":-34.4243418,
+        "lng":150.8856549
+      },
+      "tags":"",
+      "phone":"02 4253 4908",
+      "website":"/service/Cardiac_Rehabilitation_Wollongong_Hospital",
+      "email":"sandra.mccreanor@health.nsw.gov.au"
+    },
+    {
+      "name":"Heart Guard Australia",
+      "address":"Yoku Road Ashgrove, QLD 4060",
+      "location":{
+        "lat":-27.4435437,
+        "lng":152.9763772
+      },
+      "tags":"",
+      "phone":"0448 611 912",
+      "website":"/service/Heart_Guard_Australia",
+      "email":"info@heartguard.com.au"
+    },
+    {
+      "name":"Mt Isa Hospital",
+      "address":"26-28 Camooweal Street Mornington, QLD 4825",
+      "location":{
+        "lat":-20.7320082,
+        "lng":139.4926503
+      },
+      "tags":"",
+      "phone":"07 4744 4842",
+      "website":"/service/Mt_Isa_Hospital",
+      "email":"MtISA_CardiacServices@health.qld.gov.au"
+    },
+    {
+      "name":"Casino Community Health",
+      "address":"70B Canterbury Street Casino, NSW 2470",
+      "location":{
+        "lat":-28.8606068,
+        "lng":153.0357802
+      },
+      "tags":"",
+      "phone":"02 6662 4444",
+      "website":"/service/Casino_Community_Health",
+      "email":"NNSWLHD-CAS-Cardiac@health.nsw.gov.au"
+    },
+    {
+      "name":"St Vincents Hospital",
+      "address":"390 Victoria Street  Darlinghurst, NSW 2010",
+      "location":{
+        "lat":-33.879554,
+        "lng":151.221635
+      },
+      "tags":"",
+      "phone":"02 8382 2321",
+      "website":"/service/St_Vincents_Hospital",
+      "email":"SVHS.CardiacRehab@svha.org.au"
+    },
+    {
+      "name":"Country Health Connect",
+      "address":"Wellington Road Mount Barker, SA 5251",
+      "location":{
+        "lat":-35.0925647,
+        "lng":138.8754506
+      },
+      "tags":"",
+      "phone":"08 8393 1869",
+      "website":"/service/Country_Health_Connect",
+      "email":"megan.coyles@sa.gov.au"
+    },
+    {
+      "name":"Tweed Cardiac Rehab",
+      "address":"Florence Street Tweed Heads, NSW 2485",
+      "location":{
+        "lat":-28.1757735,
+        "lng":153.5416613
+      },
+      "tags":"",
+      "phone":"07 5506 7211",
+      "website":"/service/Tweed_Cardiac_Rehab",
+      "email":"NNSWLHD-TWE-cardiacrehab@health.nsw.gov.au"
+    },
+    {
+      "name":"Dorset Rehabilitation Centre",
+      "address":"146 Derby Street Pascoe Vale, VIC 3044",
+      "location":{
+        "lat":-37.7232512,
+        "lng":144.9476711
+      },
+      "tags":"",
+      "phone":"03 8371 9477",
+      "website":"/service/Dorset_Rehabilitation_Centre",
+      "email":"Louise.Mccorkell@healthscope.com.au"
+    },
+    {
+      "name":"Balmain Cardiac Rehabilitation",
+      "address":"29 Booth St Balmain, NSW 2041",
+      "location":{
+        "lat":-33.8594808,
+        "lng":151.1815001
+      },
+      "tags":"",
+      "phone":"0477 728 633",
+      "website":"/service/Balmain_Cardiac_Rehabilitation",
+      "email":"samantha.nolan@health.nsw.gov.au"
+    },
+    {
+      "name":"Millicent and District Hospital and Health Service",
+      "address":"Mount Gambier Road Millicent, SA 5280",
+      "location":{
+        "lat":-37.6165292,
+        "lng":140.3755117
+      },
+      "tags":"",
+      "phone":"08 8733 4755",
+      "website":"/service/Millicent_and_District_Hospital_and_Health_Service",
+      "email":"frank.circelli@health.sa.gov.au"
+    },
+    {
+      "name":"Logan Beaudesert Cardiac Rehabliation Service- Browns Plains",
+      "address":"Middle Road Hillcrest, QLD 4118",
+      "location":{
+        "lat":-27.676739,
+        "lng":153.0238049
+      },
+      "tags":"",
+      "phone":"07 3412 3129",
+      "website":"/service/Logan_Beaudesert_Cardiac_Rehabliation_Service-_Browns_Plains",
+      "email":"Cardiac_Rehab_BPCH@health.qld.gov.au"
+    },
+    {
+      "name":"Redcliffe - Metro North - Complex & Chronic Disease Cardiac Rehabilitation",
+      "address":"14 Sheehan Street Redcliffe, QLD 4020",
+      "location":{
+        "lat":-27.2282045,
+        "lng":153.1057831
+      },
+      "tags":"",
+      "phone":"1300 658 252",
+      "website":"/service/Redcliffe_Metro_North_Complex_Chronic_Disease_Cardiac_Rehabilitation",
+      "email":"MN-CCD@health.qld.gov.au"
+    },
+    {
+      "name":"NNSWLHD MPS  Cardiac Services-Bonalbo,Urbenville,Kyogle and Nimbin.",
+      "address":"199 Summerland Way Kyogle, NSW 2474",
+      "location":{
+        "lat":-28.6275101,
+        "lng":153.002111
+      },
+      "tags":"",
+      "phone":"02 6630 0437",
+      "website":"/service/NNSWLHD_MPS__Cardiac_Services_Bonalbo_Urbenville_Kyogle_and_Nimbin",
+      "email":"annemaree.cheffins@health.nsw.gov.au"
+    },
+    {
+      "name":"Bellarine Community Health",
+      "address":"4 Nelson Road Point Lonsdale, VIC 3225",
+      "location":{
+        "lat":-38.273449,
+        "lng":144.619203
+      },
+      "tags":"",
+      "phone":"1800 007 224",
+      "website":"/service/Bellarine_Community_Health",
+      "email":"CardiacRehab@bch.org.au"
+    },
+    {
+      "name":"Heartwise Health Services (Wesley Hospital)",
+      "address":"451 Coronation Drive Auchenflower, QLD 4066",
+      "location":{
+        "lat":-27.477884,
+        "lng":152.997935
+      },
+      "tags":"",
+      "phone":"07 3232 6190",
+      "website":"/service/Heartwise_Health_Services_Wesley_Hospital",
+      "email":"Matthew.Pullen@uchealth.com.au"
+    },
+    {
+      "name":"Mallacoota Cardio-pulmonary Rehabilitation Service",
+      "address":"Maurice Avenue Mallacoota, VIC 3892",
+      "location":{
+        "lat":-37.5582858,
+        "lng":149.7550541
+      },
+      "tags":"",
+      "phone":"03 5158 0777",
+      "website":"/service/Mallacoota_Cardio-pulmonary_Rehabilitation_Service",
+      "email":"mallacootamedical@bigpond.com"
+    },
+    {
+      "name":"Latrobe Regional Hospital",
+      "address":"10 Village Avenue Traralgon West, VIC 3844",
+      "location":{
+        "lat":-38.2172841,
+        "lng":146.4688065
+      },
+      "tags":"",
+      "phone":"03 5173 8305",
+      "website":"/service/Latrobe_Regional_Hospital",
+      "email":"cardiac.rehab@lrh.com.au"
+    },
+    {
+      "name":"Byron Central Hospital Cardiac Rehab",
+      "address":"54 Ewingsdale Road Ewingsdale, NSW 2481",
+      "location":{
+        "lat":-28.6374891,
+        "lng":153.5556225
+      },
+      "tags":"",
+      "phone":"02 6639 9612",
+      "website":"/service/Byron_Central_Hospital_Cardiac_Rehab",
+      "email":"NNSWLHD-BCH-cardiopulmonary@health.nsw.gov.au"
+    },
+    {
+      "name":"Hervey Bay Cardiac Rehabilitation",
+      "address":"Urraween Road Kawungan, QLD 4655",
+      "location":{
+        "lat":-25.3021956,
+        "lng":152.8348055
+      },
+      "tags":"",
+      "phone":"07 4325 6667",
+      "website":"/service/Hervey_Bay_Cardiac_Rehabilitation",
+      "email":"philip.wells@health.qld.gov.au"
+    },
+    {
+      "name":"Tumbarumba Community Health Service",
+      "address":"Simpson Street Tumut, NSW 2720",
+      "location":{
+        "lat":-35.3096255,
+        "lng":148.2219555
+      },
+      "tags":"",
+      "phone":"02 5908 4146",
+      "website":"/service/Tumbarumba_Community_Health_Service",
+      "email":"MLHD-CCIS@health.nsw.gov.au"
+    },
+    {
+      "name":"Bathurst Cardiopulmonary Rehabilitation Service",
+      "address":"361-365 Howick St BATHURST, NSW 2795",
+      "location":{
+        "lat":-33.4061851,
+        "lng":149.5722696
+      },
+      "tags":"",
+      "phone":"0409 790 853",
+      "website":"/service/Bathurst_Cardiopulmonary_Rehabilitation_Service",
+      "email":"jane.thompson@health.nsw.gov.au"
+    },
+    {
+      "name":"Cabrini Cardiac Rehabilitation",
+      "address":"181-183 Wattletree Rd MALVERN, VIC 3163",
+      "location":{
+        "lat":-37.8626027,
+        "lng":145.0333328
+      },
+      "tags":"",
+      "phone":"03 9508 1768",
+      "website":"/service/Cabrini_Cardiac_Rehabilitation",
+      "email":"ndormer@cabrini.com.au"
+    },
+    {
+      "name":"Kingaroy Hospital",
+      "address":"166 Youngman Street Kingaroy, QLD 4610",
+      "location":{
+        "lat":-26.5321581,
+        "lng":151.8387651
+      },
+      "tags":"",
+      "phone":"07 4162 9220",
+      "website":"/service/Kingaroy_Hospital",
+      "email":"South_Burnett_Cardiac_Rehabilitation@health.qld.gov.au"
+    },
+    {
+      "name":"Port Augusta Cardiac Rehabilitation Program",
+      "address":"71 Hospital Road Port Augusta, SA 5700",
+      "location":{
+        "lat":-32.5085432,
+        "lng":137.7758882
+      },
+      "tags":"",
+      "phone":"08 8668 7706",
+      "website":"/service/Port_Augusta_Cardiac_Rehabilitation_Program",
+      "email":"katrina.carter2@sa.gov.au"
+    },
+    {
+      "name":"Healthy Living NT",
+      "address":"Tiwi Place Tiwi, NT 0810",
+      "location":{
+        "lat":-12.3626918,
+        "lng":130.8768289
+      },
+      "tags":"",
+      "phone":"08 8927 8488",
+      "website":"/service/Healthy_Living_NT",
+      "email":"hearthelp@healthylivingnt.org.au"
+    },
+    {
+      "name":"The Heart Wellness Program @ Manly Waters Private Hospital",
+      "address":"17 Cove Avenue Manly, NSW 2095",
+      "location":{
+        "lat":-33.8050608,
+        "lng":151.2845272
+      },
+      "tags":"",
+      "phone":"02 9977 9977",
+      "website":"/service/The_Heart_Wellness_Program_Manly_Waters_Private_Hospital",
+      "email":"agrady@machealth.com.au"
+    },
+    {
+      "name":"Blayney Primary and Community Health",
+      "address":"1-3 Osman Street Blayney, NSW 2799",
+      "location":{
+        "lat":-33.5377015,
+        "lng":149.2506995
+      },
+      "tags":"",
+      "phone":"02 6368 9000",
+      "website":"/service/Blayney_Primary_and_Community_Health",
+      "email":"kylie.mackillop@health.nsw.gov.au"
+    },
+    {
+      "name":"HFRC",
+      "address":"117 Stirling Highway Nedlands, WA 6009",
+      "location":{
+        "lat":-31.9794711,
+        "lng":115.7996909
+      },
+      "tags":"",
+      "phone":"0418 948 587",
+      "website":"/service/HFRC",
+      "email":"debbie@hfrc.com.au"
+    },
+    {
+      "name":"Orbost Regional Health",
+      "address":"Boundary Road Orbost, VIC 3888",
+      "location":{
+        "lat":-37.7006122,
+        "lng":148.4600671
+      },
+      "tags":"",
+      "phone":"03 5154 6666",
+      "website":"/service/Orbost_Regional_Health",
+      "email":"Elizabeth.Barnes@orh.com.au"
+    },
+    {
+      "name":"Albany Hospital Cardiac Rehab Class",
+      "address":"Warden Avenue Spencer Park, WA 6330",
+      "location":{
+        "lat":-35.0049283,
+        "lng":117.9044631
+      },
+      "tags":"",
+      "phone":"08 9892 2324",
+      "website":"/service/Albany_Hospital_Cardiac_Rehab_Class",
+      "email":"Joanne.Clark@health.wa.gov.au"
+    },
+    {
+      "name":"CEAP (Cardiac Education and Assessment Program)  AUBURN HOSPITAL",
+      "address":"20 Hargrave Road Auburn, NSW 2144",
+      "location":{
+        "lat":-33.8606197,
+        "lng":151.0329921
+      },
+      "tags":"",
+      "phone":"02 8759 3107",
+      "website":"/service/CEAP_Cardiac_Education_and_Assessment_Program_AUBURN_HOSPITAL",
+      "email":"khodor.issa@health.nsw.gov.au"
+    },
+    {
+      "name":"Southern Fleurieu Health Service",
+      "address":"Harbour View Terrace Victor Harbor, SA 5211",
+      "location":{
+        "lat":-35.5627243,
+        "lng":138.6095205
+      },
+      "tags":"",
+      "phone":"08 8552 0600",
+      "website":"/service/Southern_Fleurieu_Health_Service",
+      "email":"cindy.whittlesea@sa.gov.au"
+    },
+    {
+      "name":"Griffith Base Hospital",
+      "address":"17 Animoo Avenue Griffith, NSW 2680",
+      "location":{
+        "lat":-34.2821342,
+        "lng":146.0439432
+      },
+      "tags":"",
+      "phone":"02 6969 5537",
+      "website":"/service/Griffith_Base_Hospital",
+      "email":"sharon.fallon@health.nsw.gov.au"
+    },
+    {
+      "name":"Maitland Hospital",
+      "address":"65 Robert Street Maitland, SA 5573",
+      "location":{
+        "lat":-34.3704579,
+        "lng":137.6742303
+      },
+      "tags":"",
+      "phone":"08 8832 0124",
+      "website":"/service/Maitland_Hospital",
+      "email":"Paul.whittaker@sa.gov.au"
+    },
+    {
+      "name":"Port Macquarie Community Health - Outpatient",
+      "address":"19-31 Morton Street Port Macquarie, NSW 2444",
+      "location":{
+        "lat":-31.4365568,
+        "lng":152.8973349
+      },
+      "tags":"",
+      "phone":"02 6589 2337",
+      "website":"/service/Port_Macquarie_Community_Health_Outpatient",
+      "email":"jannie.denyer@health.nsw.gov.au"
+    },
+    {
+      "name":"Ipswich Community Health",
+      "address":"2 Bell Street Ipswich, QLD 4305",
+      "location":{
+        "lat":-27.6130007,
+        "lng":152.7594898
+      },
+      "tags":"",
+      "phone":"07 3413 5770",
+      "website":"/service/Ipswich_Community_Health",
+      "email":"Chris.Horton@health.qld.gov.au"
+    },
+    {
+      "name":"Sunbury and Cobaw Community Health Service",
+      "address":"1 Caroline Chisholm Drive Kyneton, VIC 3444",
+      "location":{
+        "lat":-37.2558295,
+        "lng":144.4687864
+      },
+      "tags":"",
+      "phone":"03 5421 1666",
+      "website":"/service/Sunbury_and_Cobaw_Community_Health_Service",
+      "email":"intake.PH@scchc.org.au"
+    },
+    {
+      "name":"Heart Failure Service - NSLHD",
+      "address":"18 Coronation Street Mona Vale, NSW 2103",
+      "location":{
+        "lat":-33.6860301,
+        "lng":151.306203
+      },
+      "tags":"",
+      "phone":"02 9998 6181",
+      "website":"/service/Heart_Failure_Service_NSLHD",
+      "email":"NSLHD-HeartFailureService@health.nsw.gov.au"
+    },
+    {
+      "name":"Western Health - Western Hospital",
+      "address":"Gordon Street Footscray, VIC 3011",
+      "location":{
+        "lat":-37.7937808,
+        "lng":144.8890505
+      },
+      "tags":"",
+      "phone":"03 8345 7203",
+      "website":"/service/Western_Health_Western_Hospital",
+      "email":"Rosemary.ortiz@wh.org.au"
+    },
+    {
+      "name":"Active Measures - Arche Health Limited",
+      "address":"Wharf Street & Sevenoaks Street Cannington, WA 6107",
+      "location":{
+        "lat":-32.0096431,
+        "lng":115.9405249
+      },
+      "tags":"",
+      "phone":"08 9458 0505",
+      "website":"/service/Active_Measures_Arche_Health_Limited",
+      "email":"admin@archehealth.com.au"
+    },
+    {
+      "name":"St John of God Berwick, Stephenson House",
+      "address":"8 Gibb Street Berwick, VIC 3806",
+      "location":{
+        "lat":-38.0350176,
+        "lng":145.3445512
+      },
+      "tags":"",
+      "phone":"03 9788 3351",
+      "website":"/service/St_John_of_God_Berwick_Stephenson_House",
+      "email":"CardiacRehabBerwick@sjog.org.au"
+    },
+    {
+      "name":"Orange Heart Failure Service",
+      "address":"Forest Road Orange, NSW 2800",
+      "location":{
+        "lat":-33.318196,
+        "lng":149.0895436
+      },
+      "tags":"",
+      "phone":"02 6369 3897",
+      "website":"/service/Orange_Heart_Failure_Service",
+      "email":"wendy.renfrew@health.nsw.gov.au"
+    },
+    {
+      "name":"Belmont District Hospital",
+      "address":"Croudace Bay Road BELMONT, NSW 2280",
+      "location":{
+        "lat":-33.0213731,
+        "lng":151.6468213
+      },
+      "tags":"",
+      "phone":"02 4016 4685",
+      "website":"/service/Belmont_District_Hospital",
+      "email":"HNELHD-CPRU@hnehealth.nsw.gov.au"
+    },
+    {
+      "name":"Bundaberg Hospital",
+      "address":"273 Bourbong Street Bundaberg West, QLD 4670",
+      "location":{
+        "lat":-24.8691172,
+        "lng":152.3336662
+      },
+      "tags":"",
+      "phone":"07 4303 8930",
+      "website":"/service/Bundaberg_Hospital",
+      "email":"karen.fox2@health.qld.gov.au"
+    },
+    {
+      "name":"Mackay Mater Cardiac Rehabilitation Program",
+      "address":"76 Willetts Road North Mackay, QLD 4740",
+      "location":{
+        "lat":-21.1308239,
+        "lng":149.1662569
+      },
+      "tags":"",
+      "phone":"07 4965 5171",
+      "website":"/service/Mackay_Mater_Cardiac_Rehabilitation_Program",
+      "email":"mkycardiacrehab@mercycq.com"
+    },
+    {
+      "name":"Mildura Base Hospital",
+      "address":"Ontario Avenue Mildura, VIC 3500",
+      "location":{
+        "lat":-34.2000074,
+        "lng":142.1246482
+      },
+      "tags":"",
+      "phone":"03 5022 3250",
+      "website":"/service/Mildura_Base_Hospital",
+      "email":"davist@ramsayhealth.com.au"
+    },
+    {
+      "name":"Prince of Wales Hospital Cardiac Rehabilitation",
+      "address":"Barker Street Randwick, NSW 2031",
+      "location":{
+        "lat":-33.9203789,
+        "lng":151.2334502
+      },
+      "tags":"",
+      "phone":"0408 183 189",
+      "website":"/service/Prince_of_Wales_Hospital_Cardiac_Rehabilitation",
+      "email":"SESLHD-POW-CardiacRehab@health.nsw.gov.au"
+    },
+    {
+      "name":"Gippsland Southern Health Service - Cardiac Rehabilitation",
+      "address":"Bridge Street Korumburra, VIC 3950",
+      "location":{
+        "lat":-38.4313938,
+        "lng":145.8281224
+      },
+      "tags":"",
+      "phone":"03 5654 2718",
+      "website":"/service/Gippsland_Southern_Health_Service_Cardiac_Rehabilitation",
+      "email":"cardiac.rehab@gshs.com.au"
+    },
+    {
+      "name":"Flinders Private Hospital",
+      "address":"1 Flinders Drive Bedford Park, SA 5042",
+      "location":{
+        "lat":-35.0213207,
+        "lng":138.5688379
+      },
+      "tags":"",
+      "phone":"08 8275 3379",
+      "website":"/service/Flinders_Private_Hospital",
+      "email":"Sheridan.Ashley@acha.org.au"
+    },
+    {
+      "name":"Gold Coast Private Hospital",
+      "address":"Hill Street Southport, QLD 4215",
+      "location":{
+        "lat":-27.9612496,
+        "lng":153.3852874
+      },
+      "tags":"",
+      "phone":"07 5530 0125",
+      "website":"/service/Gold_Coast_Private_Hospital",
+      "email":"monica.hollenberg@healthscope.com.au"
+    },
+    {
+      "name":"Kincraig Medical Clinic",
+      "address":"6 Cedar Avenue Naracoorte, SA 5271",
+      "location":{
+        "lat":-36.966382,
+        "lng":140.7451355
+      },
+      "tags":"",
+      "phone":"08 8762 7700",
+      "website":"/service/Kincraig_Medical_Clinic",
+      "email":"jharris@kmc.com.au"
+    },
+    {
+      "name":"Avon and Central Cardiopulmonary Rehabilitation - Northam Regional Hospital",
+      "address":"Robinson Street Northam, WA 6401",
+      "location":{
+        "lat":-31.6510667,
+        "lng":116.6602726
+      },
+      "tags":"",
+      "phone":"08 9690 1320",
+      "website":"/service/Avon_and_Central_Cardiopulmonary_Rehabilitation_Northam_Regional_Hospital",
+      "email":"avonandcentralwhealtbeltprimaryhealth@health.wa.gov.au"
+    },
+    {
+      "name":"Lyell McEwin Hospital - Heart Failure",
+      "address":"120 Haydown Road Elizabeth Vale, SA 5112",
+      "location":{
+        "lat":-34.7471617,
+        "lng":138.6663579
+      },
+      "tags":"",
+      "phone":"0423 826 500",
+      "website":"/service/Lyell_McEwin_Hospital_Heart_Failure",
+      "email":"jeffrey.Briggs@sa.gov.au"
+    },
+    {
+      "name":"Hampstead Rehabilitation Centre",
+      "address":"207 Hampstead Road Northfield, SA 5085",
+      "location":{
+        "lat":-34.861116,
+        "lng":138.6186983
+      },
+      "tags":"",
+      "phone":"08 8222 1891",
+      "website":"/service/Hampstead_Rehabilitation_Centre",
+      "email":"dianne.littlechild@sa.gov.au"
+    },
+    {
+      "name":"Sports Med Subiaco, Cardiac Rehabilitation Program",
+      "address":"175 Cambridge Street Subiaco, WA 6008",
+      "location":{
+        "lat":-31.9416505,
+        "lng":115.826292
+      },
+      "tags":"",
+      "phone":"08 9382 9600",
+      "website":"/service/Sports_Med_Subiaco_Cardiac_Rehabilitation_Program",
+      "email":"nstrahan@iinet.com.au"
+    },
+    {
+      "name":"Southern Wheatbelt Cardiopulmonary Rehabilitation Service",
+      "address":"Williams Road Narrogin, WA 6312",
+      "location":{
+        "lat":-32.9364172,
+        "lng":117.1668815
+      },
+      "tags":"",
+      "phone":"08 9881 0385",
+      "website":"/service/Southern_Wheatbelt_Cardiopulmonary_Rehabilitation_Service",
+      "email":"southernwheatbelt.phs@health.wa.gov.au"
+    },
+    {
+      "name":"National Capital Private Hospital",
+      "address":"Crn Gilmore Cres and Hospital Rd GARRAN, ACT 2605",
+      "location":{
+        "lat":-35.3441779,
+        "lng":149.1018609
+      },
+      "tags":"",
+      "phone":"02 6222 6609",
+      "website":"/service/National_Capital_Private_Hospital",
+      "email":"cardiacrehabncph@healthscope.com.au"
+    },
+    {
+      "name":"Rural Northwest Health Cardiac Rehab",
+      "address":"18 Dimboola Road Warracknabeal, VIC 3393",
+      "location":{
+        "lat":-36.2525002,
+        "lng":142.3825057
+      },
+      "tags":"",
+      "phone":"03 5396 1200",
+      "website":"/service/Rural_Northwest_Health_Cardiac_Rehab",
+      "email":"Abby.Roberts@rnh.net.au"
+    },
+    {
+      "name":"Chinchilla Cardiac Rehabilitation Service(Qld Health)",
+      "address":"Slessar Street Chinchilla, QLD 4413",
+      "location":{
+        "lat":-26.7448219,
+        "lng":150.6395999
+      },
+      "tags":"",
+      "phone":"07 4662 8836",
+      "website":"/service/Chinchilla_Cardiac_Rehabilitation_Service_Qld_Health",
+      "email":"Cardiac-RehabChinchillaMiles@health.qld.gov.au"
+    },
+    {
+      "name":"The Victorian Rehabilitation Centre",
+      "address":"499 Springvale Road Glen Waverley, VIC 3150",
+      "location":{
+        "lat":-37.8978816,
+        "lng":145.1609529
+      },
+      "tags":"",
+      "phone":"03 9566 2633",
+      "website":"/service/The_Victorian_Rehabilitation_Centre",
+      "email":"susan.rowe2@healthscope.com.au"
+    },
+    {
+      "name":"Prince Charles Hospital Heart Failure Rehabilitation Programme",
+      "address":"Rode Road Chermside, QLD 4032",
+      "location":{
+        "lat":-27.3928125,
+        "lng":153.0231175
+      },
+      "tags":"",
+      "phone":"07 3139 4693",
+      "website":"/service/Prince_Charles_Hospital_Heart_Failure_Rehabilitation_Programme",
+      "email":"HFSS_TPCH@health.qld.gov.au"
+    },
+    {
+      "name":"Western Health - Sunshine Hospital",
+      "address":"176 Furlong Road Saint Albans, VIC 3021",
+      "location":{
+        "lat":-37.759284,
+        "lng":144.8171848
+      },
+      "tags":"",
+      "phone":"03 8345 1283",
+      "website":"/service/Western_Health_Sunshine_Hospital",
+      "email":"WH-ExerciseRehabIntake@mh.org.au"
+    },
+    {
+      "name":"Riverland Community Health",
+      "address":"21 Cornwall Street Berri, SA 5343",
+      "location":{
+        "lat":-34.2774537,
+        "lng":140.6019346
+      },
+      "tags":"",
+      "phone":"08 8580 2686",
+      "website":"/service/Riverland_Community_Health",
+      "email":"ann.felder@health.sa.gov.au"
+    },
+    {
+      "name":"Cessnock District Hospital",
+      "address":"View Street CESSNOCK, NSW 2325",
+      "location":{
+        "lat":-32.8281732,
+        "lng":151.3491203
+      },
+      "tags":"",
+      "phone":"02 4936 3242",
+      "website":"/service/Cessnock_District_Hospital",
+      "email":"helen.broadfoot@hnehealth.nsw.gov.au"
+    },
+    {
+      "name":"Peninsula Health Community Health Cardiac service",
+      "address":"2 Hastings Road Frankston, VIC 3199",
+      "location":{
+        "lat":-38.1508585,
+        "lng":145.128671
+      },
+      "tags":"",
+      "phone":"1300 665 781",
+      "website":"/service/Peninsula_Health_Community_Health_Cardiac_service",
+      "email":"ascottreferrals@phcn.vic.gov.au"
+    },
+    {
+      "name":"Tamworth Rural Referral Hospital",
+      "address":"Dean Street North Tamworth, NSW 2340",
+      "location":{
+        "lat":-31.0762739,
+        "lng":150.9227532
+      },
+      "tags":"",
+      "phone":"02 6767 7235",
+      "website":"/service/Tamworth_Rural_Referral_Hospital",
+      "email":"tariro.jaravani@hnehealth.nsw.gov.au"
+    },
+    {
+      "name":"Lower Mid North Coast Cardiac Rehabilitation Programs",
+      "address":"64 Pulteney Street Taree, NSW 2430",
+      "location":{
+        "lat":-31.9103096,
+        "lng":152.455655
+      },
+      "tags":"",
+      "phone":"02 6592 9678",
+      "website":"/service/Lower_Mid_North_Coast_Cardiac_Rehabilitation_Programs",
+      "email":"peter.ivey@health.nsw.gov.au"
+    },
+    {
+      "name":"Ballina Cardiac Rehabilitation and Heart Failure Service",
+      "address":"50 Fox Street Ballina, NSW 2478",
+      "location":{
+        "lat":-28.8631822,
+        "lng":153.5644351
+      },
+      "tags":"",
+      "phone":"02 6620 6209",
+      "website":"/service/Ballina_Cardiac_Rehabilitation_and_Heart_Failure_Service",
+      "email":"NNSW-BAL-ChronicCare@health.nsw.gov.au"
+    },
+    {
+      "name":"Bellarine Community Health",
+      "address":"39 Fenwick Street Portarlington, VIC 3223",
+      "location":{
+        "lat":-38.1157789,
+        "lng":144.6519602
+      },
+      "tags":"",
+      "phone":"03 5258 6140",
+      "website":"/service/Bellarine_Community_Health",
+      "email":"roschelle.brown@bch.org.au"
+    },
+    {
+      "name":"Culcarin Community Health Service Servicing Culcairn, Walla Walla,",
+      "address":"55 Balfour Street Culcairn, NSW 2660",
+      "location":{
+        "lat":-35.6673576,
+        "lng":147.0422711
+      },
+      "tags":"",
+      "phone":"02 6029 8203",
+      "website":"/service/Culcarin_Community_Health_Service_Servicing_Culcairn_Walla_Walla",
+      "email":"kathy.rhodes1@health.nsw.gov.au"
+    },
+    {
+      "name":"Aboriginal Heart Health Program",
+      "address":"156 Wittenoom Street East Perth, WA 6004",
+      "location":{
+        "lat":-31.952806,
+        "lng":115.8695247
+      },
+      "tags":"",
+      "phone":"08 9421 3888",
+      "website":"/service/Aboriginal_Heart_Health_Program",
+      "email":"hearthealth@dyhs.org.au"
+    },
+    {
+      "name":"Newcastle Private Hospital",
+      "address":"Lookout Road New Lambton Heights, NSW 2305",
+      "location":{
+        "lat":-32.9279961,
+        "lng":151.6949662
+      },
+      "tags":"",
+      "phone":"02 4941 8425",
+      "website":"/service/Newcastle_Private_Hospital",
+      "email":"Kathryn.gaggin@healthscope.com"
+    },
+    {
+      "name":"The Heart Wellness Program @ The Melbourne Eastern Private Hospital",
+      "address":"157 Scoresby Road Boronia, VIC 3155",
+      "location":{
+        "lat":-37.8556073,
+        "lng":145.2686655
+      },
+      "tags":"",
+      "phone":"03 9721 7150",
+      "website":"/service/The_Heart_Wellness_Program_The_Melbourne_Eastern_Private_Hospital",
+      "email":"exercisephysiology@machealth.com.au"
+    },
+    {
+      "name":"St Vincent's Hospital",
+      "address":"Nicholson Street Fitzroy, VIC 3065",
+      "location":{
+        "lat":-37.8004561,
+        "lng":144.9743728
+      },
+      "tags":"",
+      "phone":"1300 131 470",
+      "website":"/service/st_vincents_hospital_fitzroy",
+      "email":"HIPcentralreferrals@svha.org.au"
+    },
+    {
+      "name":"Adelaide Cardiology",
+      "address":"979 North East Road Modbury, SA 5092",
+      "location":{
+        "lat":-34.8313433,
+        "lng":138.6864512
+      },
+      "tags":"",
+      "phone":"08 8202 6600",
+      "website":"/service/Adelaide_Cardiology",
+      "email":"info@adelaidecardiology.com.au"
+    },
+    {
+      "name":"Murray Mallee Community Health Service",
+      "address":"104 Swanport Road Murray Bridge, SA 5253",
+      "location":{
+        "lat":-35.1290032,
+        "lng":139.2805867
+      },
+      "tags":"",
+      "phone":"08 8535 6800",
+      "website":"/service/Murray_Mallee_Community_Health_Service",
+      "email":"Ceri.Johns@sa.gov.au"
+    },
+    {
+      "name":"Central West HHS Cardiac Rehabilitation Program",
+      "address":"109 Eagle Street Longreach, QLD 4730",
+      "location":{
+        "lat":-23.4418637,
+        "lng":144.2488622
+      },
+      "tags":"",
+      "phone":"07 4652 5500",
+      "website":"/service/Central_West_HHS_Cardiac_Rehabilitation_Program",
+      "email":"CWHHS_Cardiac_Rehab@health.qld.gov.au"
+    },
+    {
+      "name":"Bendigo Health",
+      "address":"Barnard Street Bendigo, VIC 3550",
+      "location":{
+        "lat":-36.7554678,
+        "lng":144.2735464
+      },
+      "tags":"",
+      "phone":"03 5454 7929",
+      "website":"/service/Bendigo_Health",
+      "email":"crehab@bendigohealth.org.au"
+    },
+    {
+      "name":"Royal Hobart Hospital - Outpatient",
+      "address":"48 Liverpool Street Hobart, TAS 7000",
+      "location":{
+        "lat":-42.8796897,
+        "lng":147.3293206
+      },
+      "tags":"",
+      "phone":"03 6166 8914",
+      "website":"/service/Royal_Hobart_Hospital_Outpatient",
+      "email":"rhh.cardiacrehab@ths.tas.gov.au"
+    },
+    {
+      "name":"Heart Recovery Program Princess Alexandra Hospital",
+      "address":"199 Ipswich Road Woolloongabba, QLD 4102",
+      "location":{
+        "lat":-27.4988013,
+        "lng":153.0333303
+      },
+      "tags":"",
+      "phone":"07 3176 6318",
+      "website":"/service/Heart_Recovery_Program_Princess_Alexandra_Hospital",
+      "email":"Heart-Recovery-Service@health.qld.gov.au"
+    },
+    {
+      "name":"Cardiac and Pulmonary Rehabilitation Rural Wide Bay",
+      "address":"69 Warton Street Gayndah, QLD 4625",
+      "location":{
+        "lat":-25.6318205,
+        "lng":151.6048957
+      },
+      "tags":"",
+      "phone":"07 4161 3571",
+      "website":"/service/Cardiac_and_Pulmonary_Rehabilitation_Rural_Wide_Bay",
+      "email":"Gayndah-CH-AH@health.qld.gov.au"
+    },
+    {
+      "name":"Casino Aboriginal Medical Centre Servicing Casino, Tabulam & Mulli Mulli",
+      "address":"43 Johnston St CASINO, NSW 2470",
+      "location":{
+        "lat":-28.8592102,
+        "lng":153.0498739
+      },
+      "tags":"",
+      "phone":"02 6662 3514",
+      "website":"/service/Casino_Aboriginal_Medical_Centre_Servicing_Casino_Tabulam_Mulli_Mulli",
+      "email":"dcaldwell@casinoams.com"
+    },
+    {
+      "name":"North West Regional Hospital - Mersey campus",
+      "address":"Bass Highway Latrobe, TAS 7303",
+      "location":{
+        "lat":-41.2445528,
+        "lng":146.4534278
+      },
+      "tags":"",
+      "phone":"03 6478 5364",
+      "website":"/service/North_West_Regional_Hospital_Mersey_campus",
+      "email":"dinah.payton@ths.tas.gov.au"
+    },
+    {
+      "name":"WA Country Health Service - South West",
+      "address":"Hospital Avenue Manjimup, WA 6258",
+      "location":{
+        "lat":-34.2398115,
+        "lng":116.1535623
+      },
+      "tags":"",
+      "phone":"08 9772 5101",
+      "website":"/service/WA_Country_Health_Service_South_West",
+      "email":"Anne-Marie.Dunnet@health.wa.gov.au"
+    },
+    {
+      "name":"Ipswich and West Moreton Cardiac Rehabilitation Service",
+      "address":"21 Bell Street Ipswich, QLD 4305",
+      "location":{
+        "lat":-27.61263,
+        "lng":152.760875
+      },
+      "tags":"",
+      "phone":"07 3413 5878",
+      "website":"/service/Ipswich_and_West_Moreton_Cardiac_Rehabilitation_Service",
+      "email":"cardiacrehabipswich@health.qld.gov.au"
+    },
+    {
+      "name":"Princess Alexandra Hospital",
+      "address":"Ipswich Road Woolloongabba, QLD 4102",
+      "location":{
+        "lat":-27.49454,
+        "lng":153.0346412
+      },
+      "tags":"",
+      "phone":"07 3176 6318",
+      "website":"/service/Princess_Alexandra_Hospital",
+      "email":"heart_recovery_service@health.qld.gov.au"
+    },
+    {
+      "name":"Logan-Beaudesert Cardiac Rehabilitation Service - Beaudesert",
+      "address":"64 Tina Street Beaudesert, QLD 4285",
+      "location":{
+        "lat":-27.9850783,
+        "lng":153.0028375
+      },
+      "tags":"",
+      "phone":"07 3412 3129",
+      "website":"/service/Logan_Beaudesert_Cardiac_Rehabilitation_Service_Beaudesert",
+      "email":"Cardiac_Rehab_BPCH@health.qld.gov.au"
+    },
+    {
+      "name":"Joondalup Health Campus Cardiac Rehabilitation",
+      "address":"Shenton Avenue Joondalup, WA 6027",
+      "location":{
+        "lat":-31.7417399,
+        "lng":115.7504175
+      },
+      "tags":"",
+      "phone":"08 9400 9953",
+      "website":"/service/Joondalup_Health_Campus_Cardiac_Rehabilitation",
+      "email":"Plimmerg@ramsayhealth.com.au"
+    },
+    {
+      "name":"IPC Health Hoppers Crossing",
+      "address":"117 Warringa Crescent Hoppers Crossing, VIC 3029",
+      "location":{
+        "lat":-37.881017,
+        "lng":144.68383
+      },
+      "tags":"",
+      "phone":"03 8734 1400",
+      "website":"/service/IPC_Health_Hoppers_Crossing",
+      "email":"cardiac.rehab@ipchealth.com.au"
+    },
+    {
+      "name":"Gold Coast Hospital and Health Service Cardiac Rehabiltation and Heart Failure Programs",
+      "address":"2 Campus Crescent Robina, QLD 4226",
+      "location":{
+        "lat":-28.0745473,
+        "lng":153.3781526
+      },
+      "tags":"",
+      "phone":"1300 668 936",
+      "website":"/service/Gold_Coast_Hospital_and_Health_Service_Cardiac_Rehabiltation_and_Heart_Failure_Programs",
+      "email":"GCHCardiacRehab@health.qld.gov.au"
+    },
+    {
+      "name":"Gold Coast Community Health",
+      "address":"2 Campus Crescent Robina, QLD 4226",
+      "location":{
+        "lat":-28.0745473,
+        "lng":153.3781526
+      },
+      "tags":"",
+      "phone":"1300 668 936",
+      "website":"/service/Gold_Coast_Community_Health",
+      "email":"gchcardiacrehab@health.qld.gov.au"
+    },
+    {
+      "name":"Barwon Health - Sunrise Centre - Kardinia Park",
+      "address":"South Geelong, VIC 3220",
+      "location":{
+        "lat":-38.1673819,
+        "lng":144.3658474
+      },
+      "tags":"",
+      "phone":"03 4215 0421",
+      "website":"/service/Barwon_Health_Sunrise_Centre_Kardinia_Park",
+      "email":"roschelle.brown@barwonhealth.org.au"
+    },
+    {
+      "name":"Kalgoorlie Hospital Cardiac Rehabilitation",
+      "address":"56 Piccadilly Street Piccadilly, WA 6430",
+      "location":{
+        "lat":-30.7403171,
+        "lng":121.4686265
+      },
+      "tags":"",
+      "phone":"08 9080 5661",
+      "website":"/service/Kalgoorlie_Hospital_Cardiac_Rehabilitation",
+      "email":"yugundhar.koduru@health.wa.gov.au"
+    },
+    {
+      "name":"Northern Beaches Health Service Cardiac Rehab",
+      "address":"20 Coronation Street Mona Vale, NSW 2103",
+      "location":{
+        "lat":-33.6861643,
+        "lng":151.3077715
+      },
+      "tags":"",
+      "phone":"02 9998 6180",
+      "website":"/service/Northern_Beaches_Health_Service_Cardiac_Rehab",
+      "email":"Helen.denton@health.nsw.gov.au"
+    },
+    {
+      "name":"Mossman Multi Purpose Health Service",
+      "address":"9 Hospital Street Mossman, QLD 4873",
+      "location":{
+        "lat":-16.4640942,
+        "lng":145.3681329
+      },
+      "tags":"",
+      "phone":"07 4084 1200",
+      "website":"/service/Mossman_Multi_Purpose_Health_Service",
+      "email":"CardiacRehabMossman@health.qld.gov.au"
+    },
+    {
+      "name":"Illawarra Heart Failure Service - Wollongong Hospital",
+      "address":"Cnr Lofus and Darling Streets Wolloongong, NSW 2500",
+      "location":{
+        "lat":-34.4242458,
+        "lng":150.8850338
+      },
+      "tags":"",
+      "phone":"02 4253 4908",
+      "website":"/service/Illawarra_Heart_Failure_Service_Wollongong_Hospital",
+      "email":"Leah.Aitken@health.nsw.gov.au"
+    },
+    {
+      "name":"Mona Vale Hospital, Cardiac Rehabilitation program",
+      "address":"18 Coronation Street Mona Vale, NSW 2103",
+      "location":{
+        "lat":-33.6860301,
+        "lng":151.306203
+      },
+      "tags":"",
+      "phone":"02 9998 6180",
+      "website":"/service/Mona_Vale_Hospital_Cardiac_Rehabilitation_program",
+      "email":"NSLHD-MVHC-CardiacRehabilitation@health.nsw.gov.au"
+    },
+    {
+      "name":"Caboolture - Metro North - Complex & Chronic Disease Cardiac Rehabilitation",
+      "address":"120-124 McKean Street Caboolture, QLD 4510",
+      "location":{
+        "lat":-27.0791566,
+        "lng":152.9645382
+      },
+      "tags":"",
+      "phone":"1300 658 252",
+      "website":"/service/Caboolture_Metro_North_Complex_Chronic_Disease_Cardiac_Rehabilitation",
+      "email":"MN-CCD@health.qld.gov.au"
+    },
+    {
+      "name":"Peninsula Private Hospital",
+      "address":"370 Craigie Road Mount Martha, VIC 3934",
+      "location":{
+        "lat":-38.2652754,
+        "lng":145.0697186
+      },
+      "tags":"",
+      "phone":"03 9788 3745",
+      "website":"/service/Peninsula_Private_Hospital",
+      "email":"boothroydj@ramsayhealth.com.au"
+    },
+    {
+      "name":"Sutherland Heart & Lung Team",
+      "address":"Kareena Road Miranda, NSW 2228",
+      "location":{
+        "lat":-34.034806,
+        "lng":151.1135633
+      },
+      "tags":"",
+      "phone":"02 9540 7046",
+      "website":"/service/Sutherland_Heart_Lung_Team",
+      "email":"margaret.beattie@health.nsw.gov.au"
+    },
+    {
+      "name":"Connect Health & Community",
+      "address":"2A Gardeners Road Bentleigh East, VIC 3165",
+      "location":{
+        "lat":-37.9201023,
+        "lng":145.0626264
+      },
+      "tags":"",
+      "phone":"03 9575 5339",
+      "website":"/service/Connect_Health_Community",
+      "email":"m.dack@connecthealth.org.au"
+    },
+    {
+      "name":"Mersey Cardiac Rehabilitation",
+      "address":"Torquay Road Latrobe, TAS 7307",
+      "location":{
+        "lat":-41.2282096,
+        "lng":146.4211646
+      },
+      "tags":"",
+      "phone":"0409 973 216",
+      "website":"/service/Mersey_Cardiac_Rehabilitation",
+      "email":"mch.cardiacrehab@ths.tas.gov.au"
+    },
+    {
+      "name":"Warwick  Cardiac Rehabilitation Service",
+      "address":"56 Locke Street Warwick, QLD 4370",
+      "location":{
+        "lat":-28.2244345,
+        "lng":152.0182877
+      },
+      "tags":"",
+      "phone":"07 4660 3811",
+      "website":"/service/Warwick_Cardiac_Rehabilitation_Service",
+      "email":"southernalliedhealth@health.qld.gov.au"
+    },
+    {
+      "name":"St Vincent's Private Hospital Northside Cardiac Rehab",
+      "address":"627 Rode Road Chermside, QLD 4032",
+      "location":{
+        "lat":-27.3903934,
+        "lng":153.0232891
+      },
+      "tags":"",
+      "phone":"07 3326 3276",
+      "website":"/service/St_Vincents_Private_Hospital_Northside_Cardiac_Rehab",
+      "email":"svphn.CardiacRehab@svha.org.au"
+    },
+    {
+      "name":"St Vincents Private Hospital",
+      "address":"159 Grey Street East Melbourne, VIC 3002",
+      "location":{
+        "lat":-37.8118051,
+        "lng":144.9841093
+      },
+      "tags":"",
+      "phone":"03 9928 6003",
+      "website":"/service/St_Vincents_Private_Hospital",
+      "email":"cardiac.rehab@svha.org.au"
+    },
+    {
+      "name":"Dianella Community Health",
+      "address":"42-48 Coleraine Street Broadmeadows, VIC 3047",
+      "location":{
+        "lat":-37.6768957,
+        "lng":144.9182114
+      },
+      "tags":"",
+      "phone":"1300 234 263",
+      "website":"/service/Dianella_Community_Health",
+      "email":"marina.oliver@dpvhealth.org.au"
+    },
+    {
+      "name":"Mt Isa Hospital",
+      "address":"26-28 Camooweal Street Mornington, QLD 4825",
+      "location":{
+        "lat":-20.7320082,
+        "lng":139.4926503
+      },
+      "tags":"",
+      "phone":"07 4744 7140",
+      "website":"/service/Mt_Isa_Hospital",
+      "email":"mtisa_cardiacservices@health.qld.gov.au"
+    },
+    {
+      "name":"Blacktown Hospital Heart Failure Service",
+      "address":"18 Blacktown Road Blacktown, NSW 2148",
+      "location":{
+        "lat":-33.7755715,
+        "lng":150.9174856
+      },
+      "tags":"",
+      "phone":"0438 494 252",
+      "website":"/service/Blacktown_Hospital_Heart_Failure_Service",
+      "email":"WSLHD-BMDH-HF@health.nsw.gov.au"
+    },
+    {
+      "name":"Maryborough Cardiac Rehabilitation",
+      "address":"167 Neptune Street Maryborough, QLD 4650",
+      "location":{
+        "lat":-25.5208406,
+        "lng":152.6910085
+      },
+      "tags":"",
+      "phone":"07 4122 8723",
+      "website":"/service/Maryborough_Cardiac_Rehabilitation",
+      "email":"philip.wells@health.qld.gov.au"
+    },
+    {
+      "name":"Proserpine Cardiac Rehabilitation",
+      "address":"Taylor Street Proserpine, QLD 4800",
+      "location":{
+        "lat":-20.3994208,
+        "lng":148.5844728
+      },
+      "tags":"",
+      "phone":"07 4813 9958",
+      "website":"/service/Proserpine_Cardiac_Rehabilitation",
+      "email":"troy.wake@health.qld.gov.au"
+    },
+    {
+      "name":"Seymour Health",
+      "address":"Corner of Villiers Street SEYMOUR, VIC 3660",
+      "location":{
+        "lat":-37.0190327,
+        "lng":145.1294385
+      },
+      "tags":"",
+      "phone":"03 5735 8050",
+      "website":"/service/Seymour_Health",
+      "email":"kim.cox@seymourhealth.org"
+    },
+    {
+      "name":"Castlemaine Health",
+      "address":"Cornish Street Castlemaine, VIC 3450",
+      "location":{
+        "lat":-37.0555092,
+        "lng":144.2122152
+      },
+      "tags":"",
+      "phone":"03 5471 1568",
+      "website":"/service/Castlemaine_Health",
+      "email":"aoshaughnessy@castlemainhealth.org.au"
+    },
+    {
+      "name":"Cairns North Community Health Facility",
+      "address":"381 Sheridan Street Cairns North, QLD 4870",
+      "location":{
+        "lat":-16.9027742,
+        "lng":145.7565812
+      },
+      "tags":"",
+      "phone":"07 4226 8989",
+      "website":"/service/Cairns_North_Community_Health_Facility",
+      "email":"CNSCR@health.qld.gov.au"
+    },
+    {
+      "name":"Grafton Base Hospital",
+      "address":"Arthur Street Grafton, NSW 2460",
+      "location":{
+        "lat":-29.6772036,
+        "lng":152.9431229
+      },
+      "tags":"",
+      "phone":"02 6641 8750",
+      "website":"/service/Grafton_Base_Hospital",
+      "email":"NNSWLHD-GRA-Cardiac@health.nsw.gov.au"
+    },
+    {
+      "name":"Waikerie Medical Centre",
+      "address":"2 Strangman Road Waikerie, SA 5330",
+      "location":{
+        "lat":-34.1830791,
+        "lng":139.9861702
+      },
+      "tags":"",
+      "phone":"08 8541 3500",
+      "website":"/service/Waikerie_Medical_Centre",
+      "email":"mhahn@waikeriemedical.com.au"
+    },
+    {
+      "name":"WA Country Health Service - South West Busselton Health Campus",
+      "address":"Mill Road West Busselton, WA 6280",
+      "location":{
+        "lat":-33.6541934,
+        "lng":115.3215554
+      },
+      "tags":"",
+      "phone":"08 9753 6500",
+      "website":"/service/WA_Country_Health_Service_South_West_Busselton_Health_Campus",
+      "email":"WACHS-SWPHBusseltonAdmin@health.wa.gov.au"
+    },
+    {
+      "name":"Esk Rural Cardiac Rehab Program",
+      "address":"Highland Street Esk, QLD 4312",
+      "location":{
+        "lat":-27.2384238,
+        "lng":152.4101266
+      },
+      "tags":"",
+      "phone":"07 5424 4600",
+      "website":"/service/Esk_Rural_Cardiac_Rehab_Program",
+      "email":"jeanette.degrussa@health.qld.gov.au"
+    },
+    {
+      "name":"Sunshine Coast Orche Medical Centre",
+      "address":"Ochre Way Sippy Downs, QLD 4556",
+      "location":{
+        "lat":-26.7126458,
+        "lng":153.0654561
+      },
+      "tags":"",
+      "phone":"07 5437 8777",
+      "website":"/service/Sunshine_Coast_Orche_Medical_Centre",
+      "email":"dnunn@ehfc.com.au"
+    },
+    {
+      "name":"Northern Health - Bundoora Extended Care Centre",
+      "address":"1231 Plenty Road Bundoora, VIC 3083",
+      "location":{
+        "lat":-37.7005702,
+        "lng":145.0543946
+      },
+      "tags":"",
+      "phone":"1300 128 539",
+      "website":"/service/Northern_Health_Bundoora_Extended_Care_Centre",
+      "email":"fiona.beadle@nh.org.au"
+    },
+    {
+      "name":"Mercy Care Centre",
+      "address":"69 Demondrille Street Young, NSW 2594",
+      "location":{
+        "lat":-34.3203542,
+        "lng":148.2886481
+      },
+      "tags":"",
+      "phone":"02 6382 8490",
+      "website":"/service/Mercy_Care_Centre",
+      "email":"MCCYOutpatients@mercy.com.au"
+    },
+    {
+      "name":"Bayside Health Nook",
+      "address":"72 Pine Street Wynnum, QLD 4178",
+      "location":{
+        "lat":-27.4468176,
+        "lng":153.1762231
+      },
+      "tags":"",
+      "phone":"07 3162 2778",
+      "website":"/service/Bayside_Health_Nook",
+      "email":"info@baysidehealthnook.com.au"
+    },
+    {
+      "name":"Sunshine Coast Hospital and Health Service (Gympie)",
+      "address":"King Street Gympie, QLD 4570",
+      "location":{
+        "lat":-26.1828933,
+        "lng":152.6567196
+      },
+      "tags":"",
+      "phone":"07 5202 3437",
+      "website":"/service/Sunshine_Coast_Hospital_and_Health_Service_Gympie",
+      "email":"SC-CardiacRehab@health.qld.gov.au"
+    },
+    {
+      "name":"Nambour Hospital Heart Failure Service",
+      "address":"Hospital Road Nambour, QLD 4560",
+      "location":{
+        "lat":-26.6230726,
+        "lng":152.9548632
+      },
+      "tags":"",
+      "phone":"07 5470 5768",
+      "website":"/service/Nambour_Hospital_Heart_Failure_Service",
+      "email":"sc-Heart-Failure-Service@health.qld.gov.au"
+    },
+    {
+      "name":"Goulburn Valley Health",
+      "address":"Graham Street Shepparton, VIC 3630",
+      "location":{
+        "lat":-36.3625096,
+        "lng":145.40849
+      },
+      "tags":"",
+      "phone":"1800 222 582",
+      "website":"/service/Goulburn_Valley_Health",
+      "email":"christine.robey@gvhealth.org.au"
+    },
+    {
+      "name":"Ryde Hospital Cardiac Rehabilitation Service",
+      "address":"Denistone Road Eastwood, NSW 2122",
+      "location":{
+        "lat":-33.7935184,
+        "lng":151.0891159
+      },
+      "tags":"",
+      "phone":"02 9858 7764",
+      "website":"/service/Ryde_Hospital_Cardiac_Rehabilitation_Service",
+      "email":"kellie.roach@health.nsw.gov.au"
+    },
+    {
+      "name":"Tara Hospital - Heartbeat Cardiac Rehabilitation Service",
+      "address":"15 Bilton Street Tara, QLD 4421",
+      "location":{
+        "lat":-27.2733885,
+        "lng":150.456327
+      },
+      "tags":"",
+      "phone":"07 4672 4000",
+      "website":"Tara_Hospital_Heartbeat_Cardiac_Rehabilitation_Service",
+      "email":"CardiacRehabDalby_TARA@health.qld.gov.au"
+    },
+    {
+      "name":"Forbes Health Service",
+      "address":"Elgin Street FORBES, NSW 2871",
+      "location":{
+        "lat":-33.3958613,
+        "lng":148.0140821
+      },
+      "tags":"",
+      "phone":"02 6850 2173",
+      "website":"/service/Forbes_Health_Service",
+      "email":"fiona.thurtell@health.nsw.gov.au"
+    },
+    {
+      "name":"Bowen Hospital",
+      "address":"Gregory Street Bowen, QLD 4805",
+      "location":{
+        "lat":-20.0086872,
+        "lng":148.2415222
+      },
+      "tags":"",
+      "phone":"07 4786 8222",
+      "website":"/service/Bowen_Hospital",
+      "email":"Leigh.burton@health.qld.gov.au"
+    },
+    {
+      "name":"Prince of Wales Hospital - Heartink service",
+      "address":"Barker Street Randwick, NSW 2031",
+      "location":{
+        "lat":-33.9203789,
+        "lng":151.2334502
+      },
+      "tags":"",
+      "phone":"0421 057 340",
+      "website":"/service/Prince_of_Wales_Hospital_Heartink_service",
+      "email":"james.mcveigh@health.nsw.gov.au"
+    },
+    {
+      "name":"Portland District Health",
+      "address":"Bentinck Street Portland, VIC 3305",
+      "location":{
+        "lat":-38.3453172,
+        "lng":141.6063886
+      },
+      "tags":"",
+      "phone":"03 5522 1410",
+      "website":"/service/Portland_District_Health",
+      "email":"intake.pdh@swarh.vic.gov.au"
+    },
+    {
+      "name":"Armidale Hospital Cardiac Rehabilitation Program",
+      "address":"Rusden Street Armidale, NSW 2350",
+      "location":{
+        "lat":-30.5134001,
+        "lng":151.6608946
+      },
+      "tags":"",
+      "phone":"02 6776 9804",
+      "website":"/service/Armidale_Hospital_Cardiac_Rehabilitation_Program",
+      "email":"HNELHD-ArmidaleCPR@health.nsw.gov.au"
+    },
+    {
+      "name":"Townsville Hospital Health Service",
+      "address":"100 Angus Smith Drive Douglas, QLD 4814",
+      "location":{
+        "lat":-19.3210681,
+        "lng":146.7607788
+      },
+      "tags":"",
+      "phone":"07 4433 3493",
+      "website":"/service/Townsville_Hospital_Health_Service",
+      "email":"TSV_Card_Ed@health.qld.gov.au"
+    },
+    {
+      "name":"Melton Health",
+      "address":"195-209 Barries Road Melton West, VIC 3337",
+      "location":{
+        "lat":-37.6868562,
+        "lng":144.557722
+      },
+      "tags":"",
+      "phone":"03 9747 7636",
+      "website":"/service/Melton_Health",
+      "email":"ruthm@djhs.org.au"
+    },
+    {
+      "name":"St George Hospital",
+      "address":"Gray Street Kogarah, NSW 2217",
+      "location":{
+        "lat":-33.9685078,
+        "lng":151.1336349
+      },
+      "tags":"",
+      "phone":"02 9113 3143",
+      "website":"/service/St_George_Hospital",
+      "email":"Beth.Connolly@health.nsw.gov.au"
+    },
+    {
+      "name":"Royal Prince Alfred Hospital - Outpatient",
+      "address":"Missenden Road Newtown, NSW 2042",
+      "location":{
+        "lat":-33.8914477,
+        "lng":151.1827197
+      },
+      "tags":"",
+      "phone":"02 9515 6290",
+      "website":"/service/Royal_Prince_Alfred_Hospital_Outpatient",
+      "email":"SLHD-cardiacrehabilitation@health.nsw.gov.au"
+    },
+    {
+      "name":"Northern Yorke Peninsula Health Service",
+      "address":"1 Ernest Terrace Wallaroo, SA 5556",
+      "location":{
+        "lat":-33.928541,
+        "lng":137.6366365
+      },
+      "tags":"",
+      "phone":"08 8823 0216",
+      "website":"/service/Northern_Yorke_Peninsula_Health_Service",
+      "email":"Nikki.bock@sa.gov.au"
+    },
+    {
+      "name":"The Heart Wellness Program @ Minchinbury Community Hospital",
+      "address":"Great Western Highway & Rupertswood Road Rooty Hill, NSW 2766",
+      "location":{
+        "lat":-33.7824766,
+        "lng":150.8276147
+      },
+      "tags":"",
+      "phone":"02 9625 2222",
+      "website":"/service/The_Heart_Wellness_Program_Minchinbury_Community_Hospital",
+      "email":"awozniak@machealth.com.au"
+    },
+    {
+      "name":"Cardiac Heart Smart Program-  Sunshine Coast Private Hospital",
+      "address":"12 Elsa Wilson Drive Buderim, QLD 4556",
+      "location":{
+        "lat":-26.6842247,
+        "lng":153.0930469
+      },
+      "tags":"",
+      "phone":"07 5430 3273",
+      "website":"/service/Cardiac_Heart_Smart_Program_Sunshine_Coast_Private_Hospital",
+      "email":"cardiac.rehab@uchealth.com.au"
+    },
+    {
+      "name":"Pilbarra Population Health- Karatha",
+      "address":"62 Balmoral Road Karratha, WA 6714",
+      "location":{
+        "lat":-20.7325375,
+        "lng":116.8408653
+      },
+      "tags":"",
+      "phone":"08 9144 7833",
+      "website":"/service/Pilbarra_Population_Health-_Karatha",
+      "email":"WACHSPB_AlliedHealth2@health.wa.gov.au"
+    },
+    {
+      "name":"Tumut Community Health Service",
+      "address":"105 Simpson Street Tumut, NSW 2720",
+      "location":{
+        "lat":-35.3062879,
+        "lng":148.2194412
+      },
+      "tags":"",
+      "phone":"02 5908 4146",
+      "website":"/service/Tumut_Community_Health_Service",
+      "email":"MLHD-CCIS@health.nsw.gov.au"
+    },
+    {
+      "name":"Central Coast Community Cardiac Services",
+      "address":"664 Pacific Highway Hamlyn Terrace, NSW 2259",
+      "location":{
+        "lat":-33.2605832,
+        "lng":151.4788612
+      },
+      "tags":"",
+      "phone":"1300 725 565",
+      "website":"/service/Central_Coast_Community_Cardiac_Services",
+      "email":"Jacqui.Carnell@health.nsw.gov.au"
+    },
+    {
+      "name":"Royal Brisbane & Women's Hospital",
+      "address":"Butterfield Street Herston, QLD 4006",
+      "location":{
+        "lat":-27.4449782,
+        "lng":153.0228204
+      },
+      "tags":"",
+      "phone":"07 3646 6465",
+      "website":"/service/Royal_Brisbane_Womens_Hospital",
+      "email":"Linda.Prentice@health.qld.gov.au"
+    },
+    {
+      "name":"Royal Hobart Hospital - Heart Failure",
+      "address":"48 Liverpool Street Hobart, TAS 7000",
+      "location":{
+        "lat":-42.8796897,
+        "lng":147.3293206
+      },
+      "tags":"",
+      "phone":"03 6166 7398",
+      "website":"/service/Royal_Hobart_Hospital_Heart_Failure",
+      "email":"sue.sanderson@ths.tas.gov.au"
+    },
+    {
+      "name":"Ballina Community Health - Aboriginal Cardiac Rehabilitation Program",
+      "address":"78-92 Cherry St BALLINA, NSW 2478",
+      "location":{
+        "lat":-28.8637459,
+        "lng":153.5646586
+      },
+      "tags":"",
+      "phone":"02 6686 8977",
+      "website":"/service/Ballina_Community_Health_Aboriginal_Cardiac_Rehabilitation_Program",
+      "email":"Dena.Moore@health.nsw.gov.au"
+    },
+    {
+      "name":"Bentley Hospital Cardiac Rehabilitation",
+      "address":"59 Mills Street Cannington, WA 6107",
+      "location":{
+        "lat":-32.0049377,
+        "lng":115.9301856
+      },
+      "tags":"",
+      "phone":"08 9416 3762",
+      "website":"/service/Bentley_Hospital_Cardiac_Rehabilitation",
+      "email":"sue.bostock@health.wa.gov.au"
+    },
+    {
+      "name":"HealthOne Quirindi",
+      "address":"50 Nowland Street Quirindi, NSW 2343",
+      "location":{
+        "lat":-31.5002215,
+        "lng":150.676735
+      },
+      "tags":"",
+      "phone":"026746 0215",
+      "website":"/service/HealthOne_Quirindi",
+      "email":"Philippa.Frend@health.nsw.gov.au"
+    },
+    {
+      "name":"Sunshine Coast Hospital and Health Services (Maroochydore)",
+      "address":"60 Dalton Drive Maroochydore, QLD 4558",
+      "location":{
+        "lat":-26.6660949,
+        "lng":153.0857489
+      },
+      "tags":"",
+      "phone":"07 5202 3437",
+      "website":"/service/Sunshine_Coast_Hospital_and_Health_Services_Maroochydore",
+      "email":"SC-CardiacRehab@health.qld.gov.au"
+    },
+    {
+      "name":"Canowindra Soldiers Memorial Hospital",
+      "address":"Browns Avenue Canowindra, NSW 2804",
+      "location":{
+        "lat":-33.5575559,
+        "lng":148.6724924
+      },
+      "tags":"",
+      "phone":"02 6364 4327",
+      "website":"/service/Canowindra_Soldiers_Memorial_Hospital",
+      "email":"sue.johnson@health.nsw.gov.au"
+    },
+    {
+      "name":"Bayside Cardiac Rehabilitation Program",
+      "address":"Weippin Street Cleveland, QLD 4163",
+      "location":{
+        "lat":-27.5414877,
+        "lng":153.2504137
+      },
+      "tags":"",
+      "phone":"07 3488 3656",
+      "website":"/service/Bayside_Cardiac_Rehabilitation_Program",
+      "email":"bayside_cardiac@health.qld.gov.au"
+    },
+    {
+      "name":"Northern Metropolitan - Brunswick Private Hospital",
+      "address":"95 Davies Street BRUNSWICK, VIC 3056",
+      "location":{
+        "lat":-37.7570017,
+        "lng":144.9710898
+      },
+      "tags":"",
+      "phone":"03 9385 1105",
+      "website":"/service/Northern_Metropolitan_Brunswick_Private_Hospital",
+      "email":"Emma.Adams@healthecare.com.au"
+    },
+    {
+      "name":"The Heart Wellness Program @ Eastern Suburbs Private Hospital",
+      "address":"8 Chapel Street Randwick, NSW 2031",
+      "location":{
+        "lat":-33.9103842,
+        "lng":151.24622
+      },
+      "tags":"",
+      "phone":"02 9398 0800",
+      "website":"/service/The_Heart_Wellness_Program_Eastern_Suburbs_Private_Hospital",
+      "email":"vsai@machealth.com.au"
+    },
+    {
+      "name":"Sunshine Coast Hospital and Health Services (Noosa)",
+      "address":"Bottlebrush Avenue Noosa Heads, QLD 4567",
+      "location":{
+        "lat":-26.3959132,
+        "lng":153.090576
+      },
+      "tags":"",
+      "phone":"07 5202 3437",
+      "website":"/service/Sunshine_Coast_Hospital_and_Health_Services_Noosa",
+      "email":"SC-CardiacRehab@health.qld.gov.au"
+    },
+    {
+      "name":"Epworth Hospital",
+      "address":"89 Bridge Road Richmond, VIC 3121",
+      "location":{
+        "lat":-37.8177262,
+        "lng":144.9930475
+      },
+      "tags":"",
+      "phone":"03 9426 6625",
+      "website":"/service/Epworth_Hospital",
+      "email":"Nanci.Thurston@epworth.org.au"
+    },
+    {
+      "name":"Kawana Healthy Hearts",
+      "address":"16 Innovation Parkway Birtinya, QLD 4575",
+      "location":{
+        "lat":-26.7343739,
+        "lng":153.1212219
+      },
+      "tags":"",
+      "phone":"07 5438 8511",
+      "website":"/service/Kawana_Healthy_Hearts",
+      "email":"kawana@sportsandspinalphysio.com.au"
+    },
+    {
+      "name":"Cardiac Rehabilitation and Heart Failure Rehabilitation Programs",
+      "address":"181-183 Wattletree Road  Malvern, VIC 3144",
+      "location":{
+        "lat":-37.8626027,
+        "lng":145.0333328
+      },
+      "tags":"",
+      "phone":"03 9508 1889",
+      "website":"/service/Cardiac_Rehabilitation_and_Heart_Failure_Rehabilitation_Programs",
+      "email":"access@cabrini.com.au"
+    },
+    {
+      "name":"West Wimmera Health Service",
+      "address":"49 Nelson Street Nhill, VIC 3418",
+      "location":{
+        "lat":-36.3337613,
+        "lng":141.6552195
+      },
+      "tags":"",
+      "phone":"03 5391 4267",
+      "website":"/service/West_Wimmera_Health_Service",
+      "email":"Kimberlee.Howe@wwhs.net.au"
+    },
+    {
+      "name":"Rockhampton Hospital",
+      "address":"Berrill Lane Norman Gardens, QLD 4701",
+      "location":{
+        "lat":-23.3225794,
+        "lng":150.5215406
+      },
+      "tags":"",
+      "phone":"07 4920 7949",
+      "website":"/service/Rockhampton_Hospital",
+      "email":"rockhampton.hf@health.qld.gov.au"
+    },
+    {
+      "name":"Ayr Health Service",
+      "address":"2 Chippendale Street Ayr, QLD 4807",
+      "location":{
+        "lat":-19.5641195,
+        "lng":147.4087894
+      },
+      "tags":"",
+      "phone":"07 4783 0868",
+      "website":"/service/Ayr_Health_Service",
+      "email":"Amanda.Norton@health.qld.gov.au"
+    },
+    {
+      "name":"The Heart Wellness Program @ Longueville Private Hospital",
+      "address":"47 Kenneth Street Longueville, NSW 2066",
+      "location":{
+        "lat":-33.8273616,
+        "lng":151.1698128
+      },
+      "tags":"",
+      "phone":"02 9427 0844",
+      "website":"/service/The_Heart_Wellness_Program_Longueville_Private_Hospital",
+      "email":"bmcelwee@machealth.com.au"
+    },
+    {
+      "name":"The Heart Wellness Program @ President Private Hospital",
+      "address":"Hotham Road & President Avenue Gymea, NSW 2227",
+      "location":{
+        "lat":-34.0370097,
+        "lng":151.0799089
+      },
+      "tags":"",
+      "phone":"02 9542 2929",
+      "website":"/service/The_Heart_Wellness_Program_President_Private_Hospital",
+      "email":"jcolburt@machealth.com.au"
+    },
+    {
+      "name":"Coffs Harbour Cardiac Rehabilitation Service",
+      "address":"345 Pacific Highway COFFS HARBOUR, NSW 2450",
+      "location":{
+        "lat":-30.3179835,
+        "lng":153.0940034
+      },
+      "tags":"",
+      "phone":"02 6656 7566",
+      "website":"/service/Coffs_Harbour_Cardiac_Rehabilitation_Service",
+      "email":"sheryl.bowen@ncahs.health.nsw.gov.au"
+    },
+    {
+      "name":"Kempsey Cardiac and Pulmonary Rehabilitation Progarm",
+      "address":"Polwood Street West Kempsey, NSW 2440",
+      "location":{
+        "lat":-31.0654565,
+        "lng":152.8244932
+      },
+      "tags":"",
+      "phone":"02 6561 2790",
+      "website":"/service/Kempsey_Cardiac_and_Pulmonary_Rehabilitation_Progarm",
+      "email":"arlene.shaw@ncahs.health.nsw.gov.au"
+    },
+    {
+      "name":"The Heart Wellness Program @ Dalcross Wellness Hospital",
+      "address":"8 Stanhope Road Killara, NSW 2071",
+      "location":{
+        "lat":-33.7688558,
+        "lng":151.161758
+      },
+      "tags":"",
+      "phone":"02 9427 0844",
+      "website":"/service/The_Heart_Wellness_Program_Dalcross_Wellness_Hospital",
+      "email":"cverdicchio@machealth.com.au"
+    },
+    {
+      "name":"Barwon Health HARP Chronic Heart Failure group program Geelong",
+      "address":"120 Settlement Road Belmont, VIC 3216",
+      "location":{
+        "lat":-38.1815377,
+        "lng":144.3390962
+      },
+      "tags":"",
+      "phone":"03 4215 7401",
+      "website":"/service/Barwon_Health_HARP_Chronic_Heart_Failure_group_program_Geelong",
+      "email":"HARP@barwonhealth.org.au"
+    },
+    {
+      "name":"Williamstown Hospital",
+      "address":"Railway Crescent Williamstown, VIC 3016",
+      "location":{
+        "lat":-37.86404,
+        "lng":144.8940007
+      },
+      "tags":"",
+      "phone":"03 9393 0286",
+      "website":"/service/Williamstown_Hospital",
+      "email":"WH-ExerciseRehabIntake@mh.org.au"
+    },
+    {
+      "name":"Mater Hospital Brisbane",
+      "address":"Raymond Terrace South Brisbane, QLD 4101",
+      "location":{
+        "lat":-27.4847962,
+        "lng":153.0267305
+      },
+      "tags":"",
+      "phone":"07 3163 8111",
+      "website":"/service/Mater_Hospital_Brisbane",
+      "email":"MHBCardiacRehab@mater.org.au"
+    },
+    {
+      "name":"The Queen Elizabeth Hospital - Heart Failure",
+      "address":"11 Woodville Road Woodville South, SA 5011",
+      "location":{
+        "lat":-34.884133,
+        "lng":138.5318646
+      },
+      "tags":"",
+      "phone":"08 8222 6932",
+      "website":"/service/The_Queen_Elizabeth_Hospital_Heart_Failure",
+      "email":"Terina.Selkow@sa.gov.au"
+    },
+    {
+      "name":"Orange Community Health Service, Orange Health Service",
+      "address":"1530 Forest Road Orange, NSW 2800",
+      "location":{
+        "lat":-33.3173268,
+        "lng":149.0939552
+      },
+      "tags":"",
+      "phone":"02 6369 3300",
+      "website":"/service/Orange_Community_Health_Service,_Orange_Health_Service",
+      "email":"WNSWLHD-Orange-CardiopulmonaryRehab@health.nsw.gov.au"
+    },
+    {
+      "name":"Mater Hospital Cardiac Rehab Townsville",
+      "address":"25 Fulham Road Pimlico, QLD 4812",
+      "location":{
+        "lat":-19.289372,
+        "lng":146.7876172
+      },
+      "tags":"",
+      "phone":"07 4727 4650",
+      "website":"/service/Mater_Hospital_Cardiac_Rehab_Townsville",
+      "email":"alliedhealthadmin@matertsv.org.au"
+    },
+    {
+      "name":"Gawler Health Service - Country Health Connect",
+      "address":"21 Hutchinson Road Gawler East, SA 5118",
+      "location":{
+        "lat":-34.5937987,
+        "lng":138.7549963
+      },
+      "tags":"",
+      "phone":"08 8521 2080",
+      "website":"/service/Gawler_Health_Service_Country_Health_Connect",
+      "email":"Caroline.Wilksch@sa.gov.au"
+    },
+    {
+      "name":"Bendigo Pulmonary and Chronic Heart Failure Rehabilitation program",
+      "address":"4 Market Street Eaglehawk, VIC 3556",
+      "location":{
+        "lat":-36.7187764,
+        "lng":144.2498868
+      },
+      "tags":"",
+      "phone":"03 5454 6333",
+      "website":"/service/Bendigo_Pulmonary_and_Chronic_Heart_Failure_Rehabilitation_program",
+      "email":"jgordon@bendigohealth.org.au"
+    },
+    {
+      "name":"Batemans Bay Community Health Service (held at Moruya)",
+      "address":"River Street Moruya, NSW 2537",
+      "location":{
+        "lat":-35.904363,
+        "lng":150.0681313
+      },
+      "tags":"",
+      "phone":"1800 999 880",
+      "website":"/service/Batemans_Bay_Community_Health_Service_held_at_Moruya",
+      "email":"SNSWLHD-CommunityIntake@health.nsw.gov.au"
+    },
+    {
+      "name":"St John of God Hospital Cardiac Rehabilitation",
+      "address":"700 Robertson Drive East Bunbury, WA 6230",
+      "location":{
+        "lat":-33.3434705,
+        "lng":115.6676917
+      },
+      "tags":"",
+      "phone":"08 9722 1649",
+      "website":"/service/St_John_of_God_Hospital_Cardiac_Rehabilitation",
+      "email":"katherine.feddema@sjog.org.au"
+    },
+    {
+      "name":"Royal Perth Hospital Cardiac Rehabilitation",
+      "address":"Wellington Street Perth, WA 6000",
+      "location":{
+        "lat":-31.9511195,
+        "lng":115.8579985
+      },
+      "tags":"",
+      "phone":"08 9224 1308",
+      "website":"/service/Royal_Perth_Hospital_Cardiac_Rehabilitation",
+      "email":"rph.cardiac.rehabilitation@health.wa.gov.au"
+    },
+    {
+      "name":"Deniliquin Hospital",
+      "address":"411 Charlotte Street DENILIQUIN, NSW 2710",
+      "location":{
+        "lat":-35.5241858,
+        "lng":144.9632191
+      },
+      "tags":"",
+      "phone":"03 5882 2816",
+      "website":"/service/Deniliquin_Hospital",
+      "email":"cheryl.odonnell@gsahs.health.nsw.gov.au"
+    },
+    {
+      "name":"Healthy Living NT",
+      "address":"16 Hartley Street Alice Springs, NT 0870",
+      "location":{
+        "lat":-23.69753,
+        "lng":133.881872
+      },
+      "tags":"",
+      "phone":"08 8952 8000",
+      "website":"/service/Healthy_Living_NT",
+      "email":"cneasp@healthylivingnt.org.au"
+    },
+    {
+      "name":"Chermside -Metro North - Complex & Chronic Disease Cardiac Rehabilitation",
+      "address":"460 Hamilton Road Chermside, QLD 4032",
+      "location":{
+        "lat":-27.3857297,
+        "lng":153.0279803
+      },
+      "tags":"",
+      "phone":"1300 658 252",
+      "website":"/service/Chermside_Metro_North_Complex_Chronic_Disease_Cardiac_Rehabilitation",
+      "email":"MN-CCD@health.qld.gov.au"
+    },
+    {
+      "name":"Take Heart Cardiac Rehabilitation",
+      "address":"79 Dempster Street Esperance, WA 6450",
+      "location":{
+        "lat":-33.860008,
+        "lng":121.891844
+      },
+      "tags":"",
+      "phone":"0428 003 114",
+      "website":"/service/Take_Heart_Cardiac_Rehabilitation",
+      "email":"smitchell@amityhealth.com.au"
+    },
+    {
+      "name":"Austin Health",
+      "address":"145 Studley Road Heidelberg, VIC 3084",
+      "location":{
+        "lat":-37.7566762,
+        "lng":145.0592495
+      },
+      "tags":"",
+      "phone":"03 9496 5752",
+      "website":"/service/Austin_Health",
+      "email":"cardiacrehab@austin.org.au"
+    },
+    {
+      "name":"Barossa - Country Health Connect",
+      "address":"29 North Street Angaston, SA 5353",
+      "location":{
+        "lat":-34.5032148,
+        "lng":139.0554234
+      },
+      "tags":"",
+      "phone":"08 8563 8551",
+      "website":"/service/Barossa_Country_Health_Connect",
+      "email":"Caroline.Wilksch@sa.gov.au"
+    },
+    {
+      "name":"Health Navigator (Wheatbelt, Great Southern, South West regions of WA)",
+      "address":"6 Sundercombe Street Osborne Park, WA 6017",
+      "location":{
+        "lat":-31.905653,
+        "lng":115.8112303
+      },
+      "tags":"",
+      "phone":"1300 650 803",
+      "website":"/service/Health_Navigator_Wheatbelt_Great_Southern_South_West_regions_of_WA",
+      "email":"healthnavigator@silverchain.org.au"
+    },
+    {
+      "name":"MetroRehab Hospital - NSW",
+      "address":"275 Addison Road Petersham, NSW 2049",
+      "location":{
+        "lat":-33.899201,
+        "lng":151.1556585
+      },
+      "tags":"",
+      "phone":"02 8585 4914",
+      "website":"/service/MetroRehab_Hospital_NSW",
+      "email":"cardiac@metrorehab.com.au"
+    },
+    {
+      "name":"Bankstown / Lidcombe Hospital, Outpatient & Maintenance Program",
+      "address":"Eldridge Road BANKSTOWN, NSW 2200",
+      "location":{
+        "lat":-33.931939,
+        "lng":151.0195846
+      },
+      "tags":"",
+      "phone":"02 9722 7963",
+      "website":"/service/Bankstown_Lidcombe_Hospital_Outpatient_Maintenance_Program",
+      "email":"tracey.smith@sswahs.nsw.gov.au"
+    },
+    {
+      "name":"Albury Wodonga Health",
+      "address":"73 Vermont Street Wodonga, VIC 3690",
+      "location":{
+        "lat":-36.1322833,
+        "lng":146.879942
+      },
+      "tags":"",
+      "phone":"02 6051 7400",
+      "website":"/service/Albury_Wodonga_Health",
+      "email":"Elizabeth.Cerini@awh.org.au"
+    },
+    {
+      "name":"Royal Adelaide Hospital - Heart Failure",
+      "address":"Port Road Adelaide, SA 5000",
+      "location":{
+        "lat":-34.916216,
+        "lng":138.5784308
+      },
+      "tags":"",
+      "phone":"0423 780 757",
+      "website":"/service/Royal_Adelaide_Hospital_Heart_Failure",
+      "email":"Tim.Pearson@sa.gov.au"
+    },
+    {
+      "name":"Mansfield District Hospital Cardiac Rehabilitation",
+      "address":"53 Highett Street Mansfield, VIC 3722",
+      "location":{
+        "lat":-37.0576048,
+        "lng":146.0865084
+      },
+      "tags":"",
+      "phone":"03 5775 8800",
+      "website":"/service/Mansfield_District_Hospital_Cardiac_Rehabilitation",
+      "email":"mdhpccintake@mdh.org.au"
+    },
+    {
+      "name":"Nepean Hospital, Outpatient Program",
+      "address":"Derby Street Kingswood, NSW 2747",
+      "location":{
+        "lat":-33.7615473,
+        "lng":150.7149573
+      },
+      "tags":"",
+      "phone":"02 4734 3031",
+      "website":"Nepean_Hospital_Outpatient_Program",
+      "email":"NBMLHD-Cardiacrehabilitation@health.nsw.gov.au"
+    },
+    {
+      "name":"Fiona Stanely Hospital, Advanced Heart Failure and Cardiac Transplant Service",
+      "address":"102 Murdoch Drive Murdoch, WA 6150",
+      "location":{
+        "lat":-32.0717524,
+        "lng":115.8432658
+      },
+      "tags":"",
+      "phone":"08 6152 5783",
+      "website":"/service/Fiona_Stanely_Hospital_Advanced_Heart_Failure_and_Cardiac_Transplant_Service",
+      "email":"niki.parle@health.wa.gov.au"
+    },
+    {
+      "name":"Modbury Hospital",
+      "address":"77 Smart Road Modbury, SA 5092",
+      "location":{
+        "lat":-34.8339128,
+        "lng":138.6924237
+      },
+      "tags":"",
+      "phone":"0427 391 841",
+      "website":"/service/Modbury_Hospital",
+      "email":"michelle.iadanza@sa.gov.au"
+    },
+    {
+      "name":"Cardiac Rehab and Prevention Program",
+      "address":"647 Glen Huntly Road Caulfield, VIC 3162",
+      "location":{
+        "lat":-37.8859592,
+        "lng":145.0161614
+      },
+      "tags":"",
+      "phone":"03 9079 0477",
+      "website":"/service/Cardiac_Rehab_and_Prevention_Program",
+      "email":"enquiries@lifestylebreakthrough.com.au"
+    },
+    {
+      "name":"Rockingham General Hospital - Cardiac Rehabilitation",
+      "address":"Elanora Drive Cooloongup, WA 6168",
+      "location":{
+        "lat":-32.2924775,
+        "lng":115.7682365
+      },
+      "tags":"",
+      "phone":"08 9599 4877",
+      "website":"/service/Rockingham_General_Hospital_Cardiac_Rehabilitation",
+      "email":"RGH.PhysiotherapyCardiorespiratory@health.wa.gov.au"
+    },
+    {
+      "name":"Sydney Adventist Hospital",
+      "address":"185 Fox Valley Road Wahroonga, NSW 2076",
+      "location":{
+        "lat":-33.7345082,
+        "lng":151.0991352
+      },
+      "tags":"",
+      "phone":"02 9480 9470",
+      "website":"/service/Sydney_Adventist_Hospital",
+      "email":"ronelle.canavan@sah.org.au"
+    },
+    {
+      "name":"Ballarat Community Health",
+      "address":"12 Lilburne Street Lucas, VIC 3350",
+      "location":{
+        "lat":-37.5426925,
+        "lng":143.7852848
+      },
+      "tags":"",
+      "phone":"03 5338 4500",
+      "website":"/service/Ballarat_Community_Health",
+      "email":"MelitaC@bchc.org.au"
+    },
+    {
+      "name":"Community Physiotherapy Services NE",
+      "address":"Hospital Avenue Nedlands, WA 6009",
+      "location":{
+        "lat":-31.967477,
+        "lng":115.8167332
+      },
+      "tags":"",
+      "phone":"08 6457 4714",
+      "website":"/service/Community_Physiotherapy_Services_NE",
+      "email":"CPS@health.wa.gov.au"
+    },
+    {
+      "name":"Bowral District Hospital",
+      "address":"Mona Road Bowral, NSW 2576",
+      "location":{
+        "lat":-34.4845763,
+        "lng":150.4247094
+      },
+      "tags":"",
+      "phone":"02 4861 0290",
+      "website":"/service/Bowral_District_Hospital",
+      "email":"nerida.campbell@health.nsw.gov.au"
+    },
+    {
+      "name":"Royal Brisbane and Women's Cardiac Rehabilitation Services",
+      "address":"Butterfield Street Herston, QLD",
+      "location":{
+        "lat":-27.4449782,
+        "lng":153.0228204
+      },
+      "tags":"",
+      "phone":"07 3646 0591",
+      "website":"/service-a/Royal_Brisbane_and_Womens_Cardiac_Rehabilitation_Services",
+      "email":"RBWH_Cardiac_Rehab@health.qld.gov.au"
+    },
+    {
+      "name":"Port Macquarie Community Health Centre",
+      "address":"Morton Street Port Macquarie, NSW 2444",
+      "location":{
+        "lat":-31.4367469,
+        "lng":152.8979237
+      },
+      "tags":"",
+      "phone":"02 6589 2335",
+      "website":"/service-a/Port_Macquarie_Community_Health_Centre",
+      "email":"Sue.Sheeran@health.nsw.gov.au"
+    },
+    {
+      "name":"Peninsula Private Hospital",
+      "address":"135 Golf Links Road Frankston South, VIC 3199",
+      "location":{
+        "lat":-38.1762285,
+        "lng":145.1532342
+      },
+      "tags":"",
+      "phone":"03 9788 3745",
+      "website":"/service-a/Peninsula_Private_Hospital",
+      "email":"boothroydj@ramsayhealth.com.au"
+    },
+    {
+      "name":"Maclean Cardiac Rehab and Heart Failure",
+      "address":"21 Union Street Maclean, NSW 2463",
+      "location":{
+        "lat":-29.4545334,
+        "lng":153.2016656
+      },
+      "tags":"",
+      "phone":"02 6640 0123",
+      "website":"/service-a/Maclean_Cardiac_Rehab_and_Heart_Failure",
+      "email":"nnswlhd-mac-cardiacfailure@health.nsw.gov.au"
+    },
+    {
+      "name":"Mount Druitt Hospital",
+      "address":"Railway Street Rooty Hill, NSW 2766",
+      "location":{
+        "lat":-33.7666013,
+        "lng":150.8324484
+      },
+      "tags":"",
+      "phone":"02 9881 1802",
+      "website":"/service-a/Mount_Druitt_Hospital",
+      "email":"susan.tewhaiti@health.nsw.gov.au"
+    },
+    {
+      "name":"Cardiac and Heart Failure Rehab",
+      "address":"274-304 Craigieburn Road Craigieburn, VIC 3064",
+      "location":{
+        "lat":-37.5962804,
+        "lng":144.9189262
+      },
+      "tags":"",
+      "phone":"03 8338 3000",
+      "website":"/service-a/Cardiac_and_Heart_Failure_Rehab",
+      "email":"lisa.manago@nh.org.au"
+    },
+    {
+      "name":"Sir Charles Gairdner Hospital Heart Failure Service",
+      "address":"Hospital Avenue Nedlands, WA 6009",
+      "location":{
+        "lat":-31.967477,
+        "lng":115.8167332
+      },
+      "tags":"",
+      "phone":"08 6457 4822",
+      "website":"/service-a/Sir_Charles_Gairdner_Hospital_Heart_Failure_Service",
+      "email":"scghcardiovascularheartfailure@health.wa.gov.au"
+    },
+    {
+      "name":"Northern Health - The Northern Hospital - Cardiac Rehab and Heart Failure Program",
+      "address":"85 Cooper Street Epping, VIC 3076",
+      "location":{
+        "lat":-37.6527315,
+        "lng":145.0146309
+      },
+      "tags":"",
+      "phone":"1300 128 539",
+      "website":"/service-a/Northern_Health_The_Northern_Hospital_Cardiac_Rehab_and_Heart_Failure_Program",
+      "email":"Fiona.Beadle@nh.org.au"
+    },
+    {
+      "name":"East Grampians Health Services",
+      "address":"5 Girdlestone Street Ararat, VIC 3377",
+      "location":{
+        "lat":-37.2790462,
+        "lng":142.9327785
+      },
+      "tags":"",
+      "phone":"03 5352 9327",
+      "website":"/service-a/East_Grampians_Health_Services",
+      "email":"arnold.kwok@eghs.net.au"
+    },
+    {
+      "name":"Brisbane South - Cardiac Rehabiliation- Inala",
+      "address":"64 Wirraway Parade Inala, QLD 4077",
+      "location":{
+        "lat":-27.6006638,
+        "lng":152.9714746
+      },
+      "tags":"",
+      "phone":"07 3156 9428",
+      "website":"/service-a/Brisbane_South_Cardiac_Rehabiliation_Inala",
+      "email":"Brisbane_South_Cardiac_rehab@health.qld.gov.au"
+    },
+    {
+      "name":"South Gippsland Hospital",
+      "address":"87 Station Road Foster, VIC 3960",
+      "location":{
+        "lat":-38.6588006,
+        "lng":146.2061303
+      },
+      "tags":"",
+      "phone":"03 5683 9780",
+      "website":"/service-a/South_Gippsland_Hospital",
+      "email":"christine.benzon@sghs.com.au"
+    },
+    {
+      "name":"Goulburn Base Hospital",
+      "address":"Goldsmith Street Goulburn, NSW 2580",
+      "location":{
+        "lat":-34.749004,
+        "lng":149.7172191
+      },
+      "tags":"",
+      "phone":"02 4827 3256",
+      "website":"/service-a/Goulburn_Base_Hospital",
+      "email":"rachel.davis@health.nsw.gov.au"
+    },
+    {
+      "name":"StV's Community Rehabilitation Centre Kew",
+      "address":"283 Cotham Road Kew, VIC 3101",
+      "location":{
+        "lat":-37.8093021,
+        "lng":145.0534057
+      },
+      "tags":"",
+      "phone":"03 9231 8660",
+      "website":"/service-a/StVs_Community_Rehabilitation_Centre_Kew",
+      "email":"hipcentralreferrals@svha.org.au"
+    },
+    {
+      "name":"Donvale Rehabilitation Hospital",
+      "address":"1119 Doncaster Road Doncaster East, VIC 3109",
+      "location":{
+        "lat":-37.789994,
+        "lng":145.1714915
+      },
+      "tags":"",
+      "phone":"03 9841 1276",
+      "website":"/service-a/Donvale_Rehabilitation_Hospital",
+      "email":"outpatient.drh@ramsayhealth.com.au"
+    },
+    {
+      "name":"Epworth Rehabilitation Brighton",
+      "address":"85 Wilson Street Brighton, VIC 3186",
+      "location":{
+        "lat":-37.9134945,
+        "lng":145.0027956
+      },
+      "tags":"",
+      "phone":"03 9591 9254",
+      "website":"/service-a/Epworth_Rehabilitation_Brighton",
+      "email":"glynis.cacavas@epworth.org.au"
+    },
+    {
+      "name":"Prince Charles Hospital Heart Wellness Team",
+      "address":"627 Rode Road Kedron, QLD 4031",
+      "location":{
+        "lat":-27.3925174,
+        "lng":153.0239422
+      },
+      "tags":"",
+      "phone":"07 3139 5403",
+      "website":"/service-a/Prince_Charles_Hospital_Heart_Wellness_Team",
+      "email":"TPCH-Heart_Wellness_Team@health.qld.gov.au"
+    },
+    {
+      "name":"Clarence Integrated Care Centre - Outpatient",
+      "address":"22 Bayfield Street Rosny Park, TAS 7018",
+      "location":{
+        "lat":-42.8664369,
+        "lng":147.3715018
+      },
+      "tags":"",
+      "phone":"03 6166 8914",
+      "website":"/service-a/Clarence_Integrated_Care_Centre_Outpatient",
+      "email":"rhh.cardiacrehab@ths.tas.gov.au"
+    },
+    {
+      "name":"Narooma Community Health Service",
+      "address":"Field Street Narooma, NSW 2546",
+      "location":{
+        "lat":-36.2163569,
+        "lng":150.1237299
+      },
+      "tags":"",
+      "phone":"1800 999 880",
+      "website":"/service-a/Narooma_Community_Health_Service",
+      "email":"SNSWLHD-CommunityIntake@health.nsw.gov.au"
+    },
+    {
+      "name":"Broken Hill Health Service",
+      "address":"179 Thomas Street Broken Hill, NSW 2880",
+      "location":{
+        "lat":-31.9493255,
+        "lng":141.454617
+      },
+      "tags":"",
+      "phone":"08 8080 1125",
+      "website":"/service-a/Broken_Hill_Health_Service",
+      "email":"georgina.drewery@health.nsw.gov.au"
+    },
+    {
+      "name":"Port Pirie Regional Health Service",
+      "address":"174 The Terrace Port Pirie West, SA 5540",
+      "location":{
+        "lat":-33.1791128,
+        "lng":138.0036021
+      },
+      "tags":"",
+      "phone":"08 8638 1100",
+      "website":"/service-a/Port_Pirie_Regional_Health_Service",
+      "email":"Trudy.Baker@sa.gov.au"
+    },
+    {
+      "name":"Wauchope Community Health Centre",
+      "address":"69 High Street Wauchope, NSW 2446",
+      "location":{
+        "lat":-31.4575047,
+        "lng":152.7280713
+      },
+      "tags":"",
+      "phone":"02 6580 8060",
+      "website":"/service-a/Wauchope_Community_Health_Centre",
+      "email":"susan.ashton@ncahs.health.nsw.gov.au"
+    },
+    {
+      "name":"Sunshine Coast Hospital and Health Service (Nambour)",
+      "address":"Hospital Road Nambour, QLD 4560",
+      "location":{
+        "lat":-26.6230726,
+        "lng":152.9548632
+      },
+      "tags":"",
+      "phone":"07 5202 3437",
+      "website":"/service-a/Sunshine_Coast_Hospital_and_Health_Service_Nambour",
+      "email":"SC-CardiacRehab@health.qld.gov.au"
+    },
+    {
+      "name":"Healthy Hearts Program",
+      "address":"Rocklands Drive Tiwi, NT 0810",
+      "location":{
+        "lat":-12.3594696,
+        "lng":130.8790074
+      },
+      "tags":"",
+      "phone":"08 8920 6295",
+      "website":"/service-a/Healthy_Hearts_Program",
+      "email":"savio.furtado@healthscope.com.au"
+    },
+    {
+      "name":"Fiona Stanley Hospital - Cardiovascular Rehabilitation",
+      "address":"Robin Warren Drive Murdoch, WA 6150",
+      "location":{
+        "lat":-32.0712687,
+        "lng":115.8453613
+      },
+      "tags":"",
+      "phone":"08 6152 4002",
+      "website":"/service-a/Fiona_Stanley_Hospital_Cardiovascular_Rehabilitation",
+      "email":"FSH.Cardiovascular.Rehabilitation@health.wa.gov.au"
+    },
+    {
+      "name":"Shoalhaven Cardiac Rehabilitation Service",
+      "address":"5-7 Lawrence Avenue Nowra, NSW 2541",
+      "location":{
+        "lat":-34.8774936,
+        "lng":150.600593
+      },
+      "tags":"",
+      "phone":"02 4424 6300",
+      "website":"/service-a/Shoalhaven_Cardiac_Rehabilitation_Service",
+      "email":"bronia.kandl@health.nsw.gov.au"
+    },
+    {
+      "name":"DPV Health",
+      "address":"40 Walnut Street Whittlesea, VIC 3757",
+      "location":{
+        "lat":-37.5120785,
+        "lng":145.1198519
+      },
+      "tags":"",
+      "phone":"1300 234 263",
+      "website":"/service-a/DPV_Health",
+      "email":"intake@dpvhealth.org.au"
+    },
+    {
+      "name":"UQ Healthy Living's heart health program",
+      "address":"37 Archer Street Toowong, QLD 4066",
+      "location":{
+        "lat":-27.4861889,
+        "lng":152.9940544
+      },
+      "tags":"",
+      "phone":"07 3443 2592",
+      "website":"/service-a/UQ_Healthy_Livings_heart_health_program",
+      "email":"uqhealthyliving@uq.edu.au"
+    },
+    {
+      "name":"St Vincents Heart Failure Service",
+      "address":"390 Victoria Street  Darlinghurst, NSW 2010",
+      "location":{
+        "lat":-33.879554,
+        "lng":151.221635
+      },
+      "tags":"",
+      "phone":"02 8382 1385",
+      "website":"/service-a/St_Vincents_Heart_Failure_Service",
+      "email":"svhs.heartfailureservice@svha.org.au"
+    },
+    {
+      "name":"Hervey Bay/Maryborough Hospitals",
+      "address":"167 Neptune Street Maryborough, QLD 4650",
+      "location":{
+        "lat":-25.5208406,
+        "lng":152.6910085
+      },
+      "tags":"",
+      "phone":"07 4122 8733",
+      "website":"/service-a/Hervey_Bay_Maryborough_Hospitals",
+      "email":"kalvyn.judge@health.qld.gov.au"
+    },
+    {
+      "name":"Charleville Community Health",
+      "address":"72 King Street Charleville, QLD 4470",
+      "location":{
+        "lat":-26.4108906,
+        "lng":146.2384571
+      },
+      "tags":"",
+      "phone":"07 4650 5000",
+      "website":"/service-a/Charleville_Community_Health",
+      "email":"swhhs_cardiac_services@health.qld.gov.au"
+    },
+    {
+      "name":"Bundaberg - HeartStart Cardiac Rehabilitation Program",
+      "address":"14 Branyan Street Bundaberg West, QLD 4670",
+      "location":{
+        "lat":-24.8723401,
+        "lng":152.3415826
+      },
+      "tags":"",
+      "phone":"07 4150 1808",
+      "website":"/service-a/Bundaberg_-_HeartStart_Cardiac_Rehabilitation_Program",
+      "email":"heartstart@bundaberghealthpromotions.org"
+    },
+    {
+      "name":"Wimmera Health Care Group Healthy Hearts",
+      "address":"Baillie Street Horsham, VIC 3400",
+      "location":{
+        "lat":-36.7118053,
+        "lng":142.1982544
+      },
+      "tags":"",
+      "phone":"03 5381 9011",
+      "website":"/service-a/Wimmera_Health_Care_Group_Healthy_Hearts",
+      "email":"intake.worker@whcg.org.au"
+    },
+    {
+      "name":"GREEK PRONIA",
+      "address":"7 Union Street Brunswick, VIC 3056",
+      "location":{
+        "lat":-37.7743292,
+        "lng":144.9597639
+      },
+      "tags":"",
+      "phone":"03 9388 9998",
+      "website":"/service-a/GREEK_PRONIA",
+      "email":"reception@pronia.com.au"
+    },
+    {
+      "name":"North West Regional Hospital - Burnie campus",
+      "address":"Brickport Road Park Grove, TAS 7320",
+      "location":{
+        "lat":-41.0501675,
+        "lng":145.8817102
+      },
+      "tags":"",
+      "phone":"03 6493 6145",
+      "website":"/service-a/North_West_Regional_Hospital_Burnie_campus",
+      "email":"anna.storen@ths.tas.gov.au"
+    },
+    {
+      "name":"Lismore Heart Failure Program",
+      "address":"29 Molesworth Street Lismore, NSW 2480",
+      "location":{
+        "lat":-28.8067761,
+        "lng":153.2767835
+      },
+      "tags":"",
+      "phone":"02 6620 2967",
+      "website":"/service-a/Lismore_Heart_Failure_Program",
+      "email":"NNSWLHD-LIS-chroniccardiac@health.nsw.gov.au"
+    },
+    {
+      "name":"Bass Coast Health",
+      "address":"Graham Street Wonthaggi, VIC 3995",
+      "location":{
+        "lat":-38.606124,
+        "lng":145.5904924
+      },
+      "tags":"",
+      "phone":"03 5671 3333",
+      "website":"/service-a/Bass_Coast_Health",
+      "email":"karen.billman@basscoasthealth.org.au"
+    },
+    {
+      "name":"Caulfield Hospital",
+      "address":"260 Kooyong Road Caulfield, VIC 3162",
+      "location":{
+        "lat":-37.8827868,
+        "lng":145.0171597
+      },
+      "tags":"",
+      "phone":"03 9076 6260",
+      "website":"/service-a/Caulfield_Hospital",
+      "email":"r.sheppard@cgmc.org.au"
+    },
+    {
+      "name":"The Heart Wellness Program @ The Sydney Private Hospital",
+      "address":"63 Victoria Street Ashfield, NSW 2131",
+      "location":{
+        "lat":-33.8942035,
+        "lng":151.1293853
+      },
+      "tags":"",
+      "phone":"02 9797 0555",
+      "website":"/service-a/The_Heart_Wellness_Program_The_Sydney_Private_Hospital",
+      "email":"rbale@machealth.com.au"
+    },
+    {
+      "name":"Country Health Connect",
+      "address":"276 Wehl Street North Mount Gambier, SA 5290",
+      "location":{
+        "lat":-37.8070148,
+        "lng":140.7841916
+      },
+      "tags":"",
+      "phone":"08 8721 1460",
+      "website":"/service-a/Country_Health_Connect",
+      "email":"frank.circelli@sa.gov.au"
+    },
+    {
+      "name":"WA Health Group - Health Heart Classes",
+      "address":"2 Queensgate Drive Canning Vale, WA 6155",
+      "location":{
+        "lat":-32.0871471,
+        "lng":115.9152932
+      },
+      "tags":"",
+      "phone":"08 6162 2616",
+      "website":"/service-a/WA_Health_Group_Health_Heart_Classes",
+      "email":"jo@wahealthgroup.com.au"
+    },
+    {
+      "name":"Lyell McEwin Hospital - Cardiac Rehab",
+      "address":"Haydown Road Elizabeth Grove, SA 5112",
+      "location":{
+        "lat":-34.7379594,
+        "lng":138.67058
+      },
+      "tags":"",
+      "phone":"08 8282 0232",
+      "website":"/service-a/Lyell_McEwin_Hospital_Cardiac_Rehab",
+      "email":"Susan.Sierp@sa.gov.au"
+    },
+    {
+      "name":"DPV Health",
+      "address":"230 Cooper Street Epping, VIC 3076",
+      "location":{
+        "lat":-37.6496275,
+        "lng":145.009483
+      },
+      "tags":"",
+      "phone":"1300 234 263",
+      "website":"/service-a/DPV_Health_Epping",
+      "email":"intake@dpvhealth.org.au"
+    },
+    {
+      "name":"Mackay Base Hospital",
+      "address":"475 Bridge Road West Mackay, QLD 4740",
+      "location":{
+        "lat":-21.1465367,
+        "lng":149.1552331
+      },
+      "tags":"",
+      "phone":"07 4885 5574",
+      "website":"/service-a/Mackay_Base_Hospital",
+      "email":"Chris.Clarke@health.qld.gov.au"
+    },
+    {
+      "name":"Murwillumbah Cardiac Rehab",
+      "address":"8-10 Nullum Street Murwillumbah, NSW 2484",
+      "location":{
+        "lat":-28.3269996,
+        "lng":153.3938284
+      },
+      "tags":"",
+      "phone":"0417 025 050",
+      "website":"/service-a/Murwillumbah_Cardiac_Rehab",
+      "email":"NNSWLHD-MUR-cardiopulmonary@health.nsw.gov.au"
+    },
+    {
+      "name":"St Stephens Private Hospital",
+      "address":"1 Medical Place Urraween, QLD 4655",
+      "location":{
+        "lat":-25.2998622,
+        "lng":152.8236196
+      },
+      "tags":"",
+      "phone":"07 4120 1375",
+      "website":"/service-a/St_Stephens_Private_Hospital",
+      "email":"ryan.day@uchealth.com.au"
+    },
+    {
+      "name":"Heart Health and Fitness",
+      "address":"90 South Street Murdoch, WA 6150",
+      "location":{
+        "lat":-32.0687737,
+        "lng":115.8161807
+      },
+      "tags":"",
+      "phone":"0448 098 227",
+      "website":"/service-a/Heart_Health_and_Fitness",
+      "email":"admin@hearthealthandfitness.com.au"
+    },
+    {
+      "name":"Kyabram District Health Service",
+      "address":"Fenaughty Street Kyabram, VIC 3620",
+      "location":{
+        "lat":-36.3145752,
+        "lng":145.0431159
+      },
+      "tags":"",
+      "phone":"03 5857 0200",
+      "website":"/service-a/Kyabram_District_Health_Service",
+      "email":"voliver@kyhealth.org.au"
+    },
+    {
+      "name":"Sutherland Hospital, Outpatient Program",
+      "address":"411 Kingsway Caringbah, NSW 2229",
+      "location":{
+        "lat":-34.0366383,
+        "lng":151.1172687
+      },
+      "tags":"",
+      "phone":"02 9540 7309",
+      "website":"/service-a/Sutherland_Hospital_Outpatient_Program",
+      "email":"wendy.mullooly@health.nsw.gov.au"
+    },
+    {
+      "name":"Geraldton Hospital and Geraldton Aborginal Health Service Cardiac Rehabilitation",
+      "address":"Shenton Street Geraldton, WA 6530",
+      "location":{
+        "lat":-28.7824232,
+        "lng":114.6066594
+      },
+      "tags":"",
+      "phone":"08 9956 2221",
+      "website":"/service-a/Geraldton_Hospital_and_Geraldton_Aborginal_Health_Service_Cardiac_Rehabilitation",
+      "email":"GeraldtonHospitalAlliedHealth.WACHS-Midwest@health.wa.gov.au"
+    },
+    {
+      "name":"Canberra Hospital",
+      "address":"Yamba Drive Phillip, ACT 2606",
+      "location":{
+        "lat":-35.3450526,
+        "lng":149.099123
+      },
+      "tags":"",
+      "phone":"02 5124 3733",
+      "website":"/service-a/Canberra_Hospital",
+      "email":"CHS.Cardiac.Rehab@act.gov.au"
+    },
+    {
+      "name":"Monash Health, Greater Dandenong Community Rehabilitation Service",
+      "address":"122 Thomas Street Dandenong, VIC 3175",
+      "location":{
+        "lat":-37.9895146,
+        "lng":145.2132339
+      },
+      "tags":"",
+      "phone":"03 9792 7900",
+      "website":"/service-a/Monash_Health_Greater_Dandenong_Community_Rehabilitation_Service",
+      "email":"lisa.jenkins@monashhealth.org.au"
+    },
+    {
+      "name":"Lismore Cardiac Rehabilitation",
+      "address":"Uralba Street Lismore, NSW 2480",
+      "location":{
+        "lat":-28.8097336,
+        "lng":153.2882235
+      },
+      "tags":"",
+      "phone":"02 6620 2539",
+      "website":"/service-a/Lismore_Cardiac_Rehabilitation",
+      "email":"NNSWLHD-LIS-CardiacRehabilitation@health.nsw.gov.au"
+    },
+    {
+      "name":"Echuca Regional Health, Primary Care Division",
+      "address":"Leichardt Street Echuca, VIC 3564",
+      "location":{
+        "lat":-36.136096,
+        "lng":144.7550126
+      },
+      "tags":"",
+      "phone":"03 5485 5801",
+      "website":"/service-a/Echuca_Regional_Health_Primary_Care_Division",
+      "email":"mmolluso@erh.org.au"
+    },
+    {
+      "name":"Moruya Community Health Service",
+      "address":"River Street Moruya, NSW 2537",
+      "location":{
+        "lat":-35.904363,
+        "lng":150.0681313
+      },
+      "tags":"",
+      "phone":"1300 139 887",
+      "website":"/service-a/Moruya_Community_Health_Service",
+      "email":"SNSWLHD-Eurobodalla-CH-Intake@health.nsw.gov.au"
+    },
+    {
+      "name":"Calvary Health Care Riverina",
+      "address":"26 Hardy Avenue Wagga Wagga, NSW 2650",
+      "location":{
+        "lat":-35.1187133,
+        "lng":147.353526
+      },
+      "tags":"",
+      "phone":"0407 001 792",
+      "website":"/service-a/Calvary_Health_Care_Riverina",
+      "email":"alex.simpson@calvarycare.org.au"
+    },
+    {
+      "name":"Port Lincoln Health Service",
+      "address":"Oxford Terrace Port Lincoln, SA 5606",
+      "location":{
+        "lat":-34.7215722,
+        "lng":135.8504269
+      },
+      "tags":"",
+      "phone":"08 8683 2717",
+      "website":"/service-a/Port_Lincoln_Health_Service",
+      "email":"alyssia.smith@health.sa.gov.au"
+    },
+    {
+      "name":"Bunbury Primary Health and Community Cardiac Rehabilitation",
+      "address":"700 Robertson Drive College Grove, WA 6230",
+      "location":{
+        "lat":-33.3665905,
+        "lng":115.6482766
+      },
+      "tags":"",
+      "phone":"08 9722 1408",
+      "website":"/service-a/Bunbury_Primary_Health_and_Community_Cardiac_Rehabilitation",
+      "email":"WACHS-SWPHCampusAdmin@health.wa.gov.au"
+    },
+    {
+      "name":"Royal Prince Alfred Hospital - Heart Failure",
+      "address":"Missenden Road CAMPERDOWN, NSW 2050",
+      "location":{
+        "lat":-33.8895437,
+        "lng":151.1821121
+      },
+      "tags":"",
+      "phone":"02 9515 6786",
+      "website":"/service-a/Royal_Prince_Alfred_Hospital_Heart_Failure",
+      "email":"fiona.skarligos@health.nsw.gov.au"
+    },
+    {
+      "name":"Gladstone Community Health Cardiac Rehabilitation",
+      "address":"Flinders Street West Gladstone, QLD 4680",
+      "location":{
+        "lat":-23.848301,
+        "lng":151.2458446
+      },
+      "tags":"",
+      "phone":"07 4976 3149",
+      "website":"/service-a/Gladstone_Community_Health_Cardiac_Rehabilitation",
+      "email":"Gladstone-SOPD@health.qld.gov.au"
+    },
+    {
+      "name":"Central Gippsland Health Service",
+      "address":"155 Guthridge Parade Sale, VIC 3850",
+      "location":{
+        "lat":-38.1084653,
+        "lng":147.0808869
+      },
+      "tags":"",
+      "phone":"03 5143 8560",
+      "website":"/service-a/Central_Gippsland_Health_Service",
+      "email":"cghscardiac.rehab@cghs.com.au"
+    },
+    {
+      "name":"Liverpool Hospital, Cardiac Ambulatory Services",
+      "address":"Elizabeth Street Liverpool, NSW 2170",
+      "location":{
+        "lat":-33.9205665,
+        "lng":150.9269258
+      },
+      "tags":"",
+      "phone":"02 8738 3080",
+      "website":"/service-a/Liverpool_Hospital_Cardiac_Ambulatory_Services",
+      "email":"Karla.Espino@health.nsw.gov.au"
+    },
+    {
+      "name":"Roma Base Hospital",
+      "address":"234 McDowall Street Roma, QLD 4455",
+      "location":{
+        "lat":-26.5698117,
+        "lng":148.7738162
+      },
+      "tags":"",
+      "phone":"0437 641 637",
+      "website":"/service-a/Roma_Base_Hospital",
+      "email":"SWHHS_Cardiac_Services@health.qld.gov.au"
+    },
+    {
+      "name":"Alexandra District Health",
+      "address":"12 Cooper Street Alexandra, VIC 3714",
+      "location":{
+        "lat":-37.1940818,
+        "lng":145.7172472
+      },
+      "tags":"",
+      "phone":"03 5772 0900",
+      "website":"/service-a/Alexandra_District_Health",
+      "email":"ADHintake@adh.org.au"
+    },
+    {
+      "name":"Lithgow District Hospital",
+      "address":"Col Drewe Drive South Bowenfels, NSW 2790",
+      "location":{
+        "lat":-33.5003246,
+        "lng":150.1263122
+      },
+      "tags":"",
+      "phone":"02 6350 2516",
+      "website":"/service-a/Lithgow_District_Hospital",
+      "email":"andreas.heidemann@health.nsw.gov.au"
+    },
+    {
+      "name":"Queanbeyan Health Service",
+      "address":"Erin Street Queanbeyan, NSW 2620",
+      "location":{
+        "lat":-35.3465662,
+        "lng":149.233266
+      },
+      "tags":"",
+      "phone":"02 6150 7245",
+      "website":"/service-a/Queanbeyan_Health_Service",
+      "email":"janice.dalton@health.nsw.gov.au"
+    },
+    {
+      "name":"Southwest Healthcare Warrnambool",
+      "address":"Ryot Street Warrnambool, VIC 3280",
+      "location":{
+        "lat":-38.3788959,
+        "lng":142.4749675
+      },
+      "tags":"",
+      "phone":"03 5563 4000",
+      "website":"/service-a/Southwest_Healthcare_Warrnambool",
+      "email":"intake@swh.net.au"
+    },
+    {
+      "name":"Brisbane South Eight Mile Plains Cardiac Rehabilitation",
+      "address":"51 McKechnie Drive Eight Mile Plains, QLD 4113",
+      "location":{
+        "lat":-27.5798606,
+        "lng":153.0981535
+      },
+      "tags":"",
+      "phone":"07 3156 9428",
+      "website":"/service-a/Brisbane_South_Eight_Mile_Plains_Cardiac_Rehabilitation",
+      "email":"brisbane_south_cardiac_rehab@health.qld.gov.au"
+    },
+    {
+      "name":"Bairnsdale Regional Health Service",
+      "address":"48 Ross Street Bairnsdale, VIC 3875",
+      "location":{
+        "lat":-37.8193911,
+        "lng":147.606812
+      },
+      "tags":"",
+      "phone":"03 5152 0230",
+      "website":"/service-a/Bairnsdale_Regional_Health_Service",
+      "email":"chealth@brhs.com.au"
+    },
+    {
+      "name":"Yarram & District Health Service",
+      "address":"90 Commercial Road Yarram, VIC 3971",
+      "location":{
+        "lat":-38.5573929,
+        "lng":146.6773052
+      },
+      "tags":"",
+      "phone":"1800 934 722",
+      "website":"/service-a/Yarram_District_Health_Service",
+      "email":"service.access@ydhs.com.au"
+    },
+    {
+      "name":"Northern Integrated Care Service (Launceston General Hospital)",
+      "address":"41 Frankland Street Launceston, TAS 7250",
+      "location":{
+        "lat":-41.4463291,
+        "lng":147.1411117
+      },
+      "tags":"",
+      "phone":"03 6777 4145",
+      "website":"/service-a/Northern_Integrated_Care_Service_Launceston_General_Hospital",
+      "email":"john.aitken@ths.tas.gov.au"
+    },
+    {
+      "name":"North Eastern Rehabilitation Centre",
+      "address":"134-144 Ford Street Ivanhoe, VIC 3079",
+      "location":{
+        "lat":-37.7634227,
+        "lng":145.0313292
+      },
+      "tags":"",
+      "phone":"03 9474 8923",
+      "website":"/service-a/North_Eastern_Rehabilitation_Centre",
+      "email":"NERC.OutpatientGroupReferral@healthscope.com.au"
+    },
+    {
+      "name":"Mater Adult Hospital",
+      "address":"Raymond Terrace South Brisbane, QLD 4101",
+      "location":{
+        "lat":-27.4847962,
+        "lng":153.0267305
+      },
+      "tags":"",
+      "phone":"07 3163 3401",
+      "website":"/service-a/Mater_Adult_Hospital",
+      "email":"Kerry-Ann.Creevey@mater.org.au"
+    },
+    {
+      "name":"Mackay Hospital and Health Service",
+      "address":"475 Bridge Road West Mackay, QLD 4740",
+      "location":{
+        "lat":-21.1465367,
+        "lng":149.1552331
+      },
+      "tags":"",
+      "phone":"07 4885 5572",
+      "website":"/service-a/Mackay_Hospital_and_Health_Service",
+      "email":"mbh_cardiac_rehab@health.qld.gov.au"
+    },
+    {
+      "name":"Blacktown District Hospital - Cardiac Rehabilitation",
+      "address":"Marcel Crescent Blacktown, NSW 2148",
+      "location":{
+        "lat":-33.7743288,
+        "lng":150.9144187
+      },
+      "tags":"",
+      "phone":"02 8670 5587",
+      "website":"/service-a/Blacktown_District_Hospital_Cardiac_Rehabilitation",
+      "email":"susan.tewhaiti@health.nsw.gov.au"
+    },
+    {
+      "name":"Epworth Rehabilitation Camberwell",
+      "address":"888 Toorak Road Camberwell, VIC 3124",
+      "location":{
+        "lat":-37.8462889,
+        "lng":145.0546349
+      },
+      "tags":"",
+      "phone":"03 9805 4178",
+      "website":"/service-a/Epworth_Rehabilitation_Camberwell",
+      "email":"jo.kevill@epworth.org.au"
+    },
+    {
+      "name":"Ardlethan Community Health Care Centre",
+      "address":"Redmond Street ARDLETHAN, NSW 2665",
+      "location":{
+        "lat":-34.3500068,
+        "lng":146.901094
+      },
+      "tags":"",
+      "phone":"02 6980 0200",
+      "website":"/service-a/Ardlethan_Community_Health_Care_Centre",
+      "email":"mandy.mckinnon@gsahs.health.nsw.gov.au"
+    },
+    {
+      "name":"Community Physiotherapy Services",
+      "address":"11 Robin Warren Drive Murdoch, WA 6150",
+      "location":{
+        "lat":-32.0709103,
+        "lng":115.8469556
+      },
+      "tags":"",
+      "phone":"08 6152 0816",
+      "website":"/service-a/Community_Physiotherapy_Services",
+      "email":"SMHS.CPS@health.wa.gov.au"
+    },
+    {
+      "name":"The Royal Melbourne Hospital",
+      "address":"300 Grattan St PARKVILLE, VIC 3050",
+      "location":{
+        "lat":-37.7985908,
+        "lng":144.9558491
+      },
+      "tags":"",
+      "phone":"0439 652 270",
+      "website":"/service-a/The_Royal_Melbourne_Hospital",
+      "email":"Cathy.Close@mh.org.au"
+    },
+    {
+      "name":"Hornsby Ku-ring-gai Health Service - Outpaitent",
+      "address":"Palmerston Road Hornsby, NSW 2077",
+      "location":{
+        "lat":-33.7028407,
+        "lng":151.1112883
+      },
+      "tags":"",
+      "phone":"02 9477 9844",
+      "website":"/service-a/Hornsby_Ku_ring_gai_Health_Service_Outpaitent",
+      "email":"julie.belshaw@health.nsw.gov.au"
+    },
+    {
+      "name":"Wagga Wagga Rural Referral Hospital",
+      "address":"260 Edward Street Wagga Wagga, NSW 2650",
+      "location":{
+        "lat":-35.1179925,
+        "lng":147.3569636
+      },
+      "tags":"",
+      "phone":"02 5943 1221",
+      "website":"/service-a/Wagga_Wagga_Rural_Referral_Hospital",
+      "email":"joanne.leonard@health.nsw.gov.au"
+    },
+    {
+      "name":"Body Fit Physiotherapy - Cardiac Prevention and Rehabilitation",
+      "address":"8 O'Connell Street North Adelaide, SA 5006",
+      "location":{
+        "lat":-34.9088993,
+        "lng":138.5972391
+      },
+      "tags":"",
+      "phone":"08 8267 6432",
+      "website":"/service-a/Body_Fit_Physiotherapy_Cardiac_Prevention_and_Rehabilitation",
+      "email":"physio@bodyfit.life"
+    },
+    {
+      "name":"Healthy Hearts Cardiac Rehabilitation Program - Greenslopes Private",
+      "address":"Newdegate Street Greenslopes, QLD 4120",
+      "location":{
+        "lat":-27.5106243,
+        "lng":153.0484876
+      },
+      "tags":"",
+      "phone":"07 3394 7727",
+      "website":"/service-a/Healthy_Hearts_Cardiac_Rehabilitation_Program_Greenslopes_Private",
+      "email":"crc.gph@ramsayhealth.com.au"
+    },
+    {
+      "name":"Cardiac Rehab Albury Hospital, Albury Wodonga Health",
+      "address":"Borella Road East Albury, NSW 2640",
+      "location":{
+        "lat":-36.0764753,
+        "lng":146.936519
+      },
+      "tags":"",
+      "phone":"02 6051 7433",
+      "website":"/service-a/Cardiac_Rehab_Albury_Hospital_Albury_Wodonga_Health",
+      "email":"CRC.ReceptionAlbury@awh.org.au"
+    },
+    {
+      "name":"MQ Health Cardiac Rehabilitation",
+      "address":"2 Technology Place Macquarie Park, NSW 2109",
+      "location":{
+        "lat":-33.7730453,
+        "lng":151.1176713
+      },
+      "tags":"",
+      "phone":"02 9812 3850",
+      "website":"/service-a/MQ_Health_Cardiac_Rehabilitation",
+      "email":"physiotherapy@mqhealth.org.au"
+    },
+    {
+      "name":"Macedon Ranges Health",
+      "address":"5 Neal St, Gisborne VIC 3437",
+      "location":{
+        "lat":-37.485812,
+        "lng":144.584764
+      },
+      "tags":"",
+      "phone":"03 5428 0300",
+      "website":"https://www.benetas.com.au/health-care/macedon-ranges-health",
+      "email":"louise.beer@mrh.org.au"
+    },
+    {
+      "name":"St John of God Midland Public  Hospital Cardiac Rehabilitation",
+      "address":"1 Clayton Street Midland, WA 6056",
+      "location":{
+        "lat":-31.8943161,
+        "lng":116.0072361
+      },
+      "tags":"",
+      "phone":"08 9462 4313",
+      "website":"/service-a/St_John_of_God_Midland_Public__Hospital_Cardiac_Rehabilitation",
+      "email":"CardiacRehabProgram@sjog.org.au"
+    },
+    {
+      "name":"Epworth Geelong Cardiac Rehabilitation",
+      "address":"Epworth Hospital Waurn Ponds, VIC 3216",
+      "location":{
+        "lat":-38.1936827,
+        "lng":144.3030942
+      },
+      "tags":"",
+      "phone":"03 5271 7055",
+      "website":"/service-a/Epworth_Geelong_Cardiac_Rehabilitation",
+      "email":"EG.Outpatientrehabad@epworth.org.au"
+    },
+    {
+      "name":"Lake Macquarie Private Hospital",
+      "address":"3 Sydney Street Gateshead, NSW 2290",
+      "location":{
+        "lat":-32.9816873,
+        "lng":151.6918464
+      },
+      "tags":"",
+      "phone":"02 4947 5780",
+      "website":"/service-a/Lake_Macquarie_Private_Hospital",
+      "email":"dicksonk@ramsayhealth.com.au"
+    },
+    {
+      "name":"Flinders Medical Centre - Heart Failure",
+      "address":"Flinders Drive Bedford Park, SA 5042",
+      "location":{
+        "lat":-35.021668,
+        "lng":138.5676786
+      },
+      "tags":"",
+      "phone":"08 8204 7784",
+      "website":"/service-a/Flinders_Medical_Centre_Heart_Failure",
+      "email":"Natalie.Simpson@sa.gov.au"
+    },
+    {
+      "name":"Self-Management of Chronic Conditions (SMoCC) service -  (COACH Program)",
+      "address":"Queensland , QLD",
+      "location":{
+        "lat":-22.575197,
+        "lng":144.0847926
+      },
+      "tags":"",
+      "phone":"13 432 584",
+      "website":"/service-a/Self-Management_of_Chronic_Conditions_SMoCC_service_COACH_Program",
+      "email":"SMOCC@health.qld.gov.au"
+    },
+    {
+      "name":"Bombala Health Service",
+      "address":"Crn Joseph and Wellington Streets BOMBALA, NSW 2632",
+      "location":{
+        "lat":-36.9174717,
+        "lng":149.2355583
+      },
+      "tags":"",
+      "phone":"02 6458 5777",
+      "website":"/service-a/Bombala_Health_Service",
+      "email":"debra.bailey@gsahs.health.nsw.gov.au"
+    },
+    {
+      "name":"The Heart Wellness Program @ Holroyd Private Hospital",
+      "address":"123 Chetwynd Road Guildford, NSW 2161",
+      "location":{
+        "lat":-33.8461768,
+        "lng":150.9789663
+      },
+      "tags":"",
+      "phone":"02 9681 2222",
+      "website":"/service-a/The_Heart_Wellness_Program_Holroyd_Private_Hospital",
+      "email":"vnaik@machealth.com.au"
+    },
+    {
+      "name":"Cairns Hospital",
+      "address":"Esplanade Cairns City, QLD 4870",
+      "location":{
+        "lat":-16.9142563,
+        "lng":145.7718075
+      },
+      "tags":"",
+      "phone":"07 4226 8989",
+      "website":"/service-a/Cairns_Hospital",
+      "email":"CNSCR@health.qld.gov.au"
+    },
+    {
+      "name":"Casssowary Area Community Health - Tully",
+      "address":"17 Bryant Street Tully, QLD 4854",
+      "location":{
+        "lat":-17.9271397,
+        "lng":145.9236189
+      },
+      "tags":"",
+      "phone":"07 4016 1634",
+      "website":"/service-a/Casssowary_Area_Community_Health_Tully",
+      "email":"CACH@health.qld.gov.au"
+    },
+    {
+      "name":"Eastern Health",
+      "address":"500 Collins Street Melbourne, VIC 3000",
+      "location":{
+        "lat":-37.8176127,
+        "lng":144.9574838
+      },
+      "tags":"",
+      "phone":"03 9098 8812",
+      "website":"/service-a/Eastern_Health",
+      "email":"test@test.com.au"
+    },
+    {
+      "name":"Shoalhaven Heart Failure Service",
+      "address":"5-7 Lawrence Avenue Nowra, NSW 2541",
+      "location":{
+        "lat":-34.8774936,
+        "lng":150.600593
+      },
+      "tags":"",
+      "phone":"0421 054 840",
+      "website":"/service-a/Shoalhaven_Heart_Failure_Service",
+      "email":"Karley.Robinson@health.nsw.gov.au"
+    },
+    {
+      "name":"Kingston Community Rehabilitation Centre",
+      "address":"400 Warrigal Road Heatherton, VIC 3202",
+      "location":{
+        "lat":-37.9557,
+        "lng":145.0784327
+      },
+      "tags":"",
+      "phone":"03 9265 7900",
+      "website":"/service-a/Kingston_Community_Rehabilitation_Centre",
+      "email":"Lisa.Jenkins@monashhealth.org"
+    },
+    {
+      "name":"Your Heart Matters - Eden Rehabilitation Hospital",
+      "address":"50 Maple Street Cooroy, QLD 4563",
+      "location":{
+        "lat":-26.4196529,
+        "lng":152.9084333
+      },
+      "tags":"",
+      "phone":"07 5472 6472",
+      "website":"/service-a/Your_Heart_Matters_Eden_Rehabilitation_Hospital",
+      "email":"john.turnbull@pulsehealth.net.au"
+    },
+    {
+      "name":"Clare Medical Centre",
+      "address":"41 Old North Road Clare, SA 5453",
+      "location":{
+        "lat":-33.8326786,
+        "lng":138.6126382
+      },
+      "tags":"",
+      "phone":"08 8841 3777",
+      "website":"/service-a/Clare_Medical_Centre",
+      "email":"dbruhn@claremedical.com.au"
+    },
+    {
+      "name":"St John of God - Bendigo (HeartSmart/Cardiac Rehab Program)",
+      "address":"133-145 Lily Street Bendigo, VIC 3550",
+      "location":{
+        "lat":-36.7619463,
+        "lng":144.2637316
+      },
+      "tags":"",
+      "phone":"03 5434 3450",
+      "website":"/service-a/St_John_of_God_Bendigo_HeartSmart_Cardiac_Rehab_Program",
+      "email":"Bendigo.CardiacRehab@sjog.org.au"
+    },
+    {
+      "name":"Hollywood Private Hospital - Ramsay Health Plus, Cardiac Rehabilitation Program",
+      "address":"Verdun Street Nedlands, WA 6009",
+      "location":{
+        "lat":-31.9672117,
+        "lng":115.8097214
+      },
+      "tags":"",
+      "phone":"08 9346 6002",
+      "website":"/service-a/Hollywood_Private_Hospital_Ramsay_Health_Plus_Cardiac_Rehabilitation_Program",
+      "email":"CardiacRehab.HPH@ramsayhealth.com.au"
+    },
+    {
+      "name":"Dalby Cardiac Rehabilitation(Qld Health)",
+      "address":"30 New Street Dalby, QLD 4405",
+      "location":{
+        "lat":-27.1804287,
+        "lng":151.2665568
+      },
+      "tags":"",
+      "phone":"07 4672 4000",
+      "website":"/service-a/Dalby_Cardiac_Rehabilitation_Qld_Health",
+      "email":"CardiacRehabDalby_TARA@health.qld.gov.au"
+    },
+    {
+      "name":"North Lakes- Metro North - Complex & Chronic Disease Cardiac Rehabilitation",
+      "address":"9 Endeavour Boulevard North Lakes, QLD 4509",
+      "location":{
+        "lat":-27.2392016,
+        "lng":153.0209777
+      },
+      "tags":"",
+      "phone":"1300 658 252",
+      "website":"/service-a/North_Lakes_Metro_North_Complex_Chronic_Disease_Cardiac_Rehabilitation",
+      "email":"MN-CCD@health.qld.gov.au"
+    },
+    {
+      "name":"Ballina District Hospital",
+      "address":"78-92 Cherry St BALLINA, NSW 2478",
+      "location":{
+        "lat":-28.8637459,
+        "lng":153.5646586
+      },
+      "tags":"",
+      "phone":"02 6686 8977",
+      "website":"/service-a/Ballina_District_Hospital",
+      "email":"emma.young@health.nsw.gov.au"
+    },
+    {
+      "name":"The Heart Wellness Program @ Delmar Private Hospital",
+      "address":"58 Quirk Street Dee Why, NSW 2099",
+      "location":{
+        "lat":-33.7579847,
+        "lng":151.2881261
+      },
+      "tags":"",
+      "phone":"02 8978 5297",
+      "website":"/service-a/The_Heart_Wellness_Program_Delmar_Private_Hospital",
+      "email":"bbortignon@machealth.com.au"
+    },
+    {
+      "name":"Tweed Heart Failure",
+      "address":"Powell Street Tweed Heads, NSW 2485",
+      "location":{
+        "lat":-28.1760613,
+        "lng":153.5443193
+      },
+      "tags":"",
+      "phone":"07 5506 7818",
+      "website":"/service-a/Tweed_Heart_Failure",
+      "email":"NNSWLHD-TWE-cardiacfailure@health.nsw.gov.au"
+    },
+    {
+      "name":"Delegate Multi Purpose Service",
+      "address":"Craigie Street DELEGATE, NSW 2633",
+      "location":{
+        "lat":-37.0448175,
+        "lng":148.9432599
+      },
+      "tags":"",
+      "phone":"02 6459 8000",
+      "website":"/service-a/Delegate_Multi_Purpose_Service",
+      "email":"janice.rumph@gsahs.health.nsw.gov.au"
+    },
+    {
+      "name":"Sunshine Coast Hospital and Health Services (Caloundra)",
+      "address":"West Terrace Caloundra, QLD 4551",
+      "location":{
+        "lat":-26.8000199,
+        "lng":153.1207307
+      },
+      "tags":"",
+      "phone":"07 5202 3437",
+      "website":"/service-a/Sunshine_Coast_Hospital_and_Health_Services_Caloundra",
+      "email":"SC-CardiacRehab@health.qld.gov.au"
+    },
+    {
+      "name":"Toowoomba Hospital Heart Care Team",
+      "address":"Pechey Street South Toowoomba, QLD 4350",
+      "location":{
+        "lat":-27.5708474,
+        "lng":151.9466838
+      },
+      "tags":"",
+      "phone":"07 4616 6800",
+      "website":"/service-a/Toowoomba_Hospital_Heart_Care_Team",
+      "email":"CardiacRehabToowoomba@health.qld.gov.au"
+    },
+    {
+      "name":"Wellington Community and Allied Health Centre",
+      "address":"100 Gisborne Street Wellington, NSW 2820",
+      "location":{
+        "lat":-32.5502068,
+        "lng":148.949769
+      },
+      "tags":"",
+      "phone":"02 6840 7200",
+      "website":"/service-a/Wellington_Community_and_Allied_Health_Centre",
+      "email":"narelle.ford@health.nsw.gov.au"
+    },
+    {
+      "name":"Sunbury Community Health Centre",
+      "address":"12-28 Macedon Street Sunbury, VIC 3429",
+      "location":{
+        "lat":-37.57891,
+        "lng":144.732683
+      },
+      "tags":"",
+      "phone":"03 9744 4455",
+      "website":"/service-a/Sunbury_Community_Health_Centre",
+      "email":"tracys@sunburychc.org.au"
+    },
+    {
+      "name":"Ballarat Health Service",
+      "address":"102 Ascot Street South Ballarat Central, VIC 3350",
+      "location":{
+        "lat":-37.5638439,
+        "lng":143.8435098
+      },
+      "tags":"",
+      "phone":"03 5320 3700",
+      "website":"/service-a/Ballarat_Health_Service",
+      "email":"luke.evans@bhs.org.au"
+    },
+    {
+      "name":"Griffith Rehabilitation Hospital",
+      "address":"13 Dunrobin Road Hove, SA 5048",
+      "location":{
+        "lat":-35.0100442,
+        "lng":138.5242017
+      },
+      "tags":"",
+      "phone":"08 8179 4202",
+      "website":"/service-a/Griffith_Rehabilitation_Hospital",
+      "email":"Griffith@healthscope.com.au"
+    },
+    {
+      "name":"Mount Druitt Hospital - Rehabilitation Hub",
+      "address":"Railway Street Mount Druitt, NSW 2770",
+      "location":{
+        "lat":-33.7661946,
+        "lng":150.8321503
+      },
+      "tags":"",
+      "phone":"02 9881 1802",
+      "website":"/service-a/Mount_Druitt_Hospital_Rehabilitation_Hub",
+      "email":"karen.mcnulty@health.nsw.gov.au"
+    },
+    {
+      "name":"Mandaruh Community Health Centre",
+      "address":"112 Lakes Road Greenfields, WA 6210",
+      "location":{
+        "lat":-32.5308672,
+        "lng":115.7637091
+      },
+      "tags":"",
+      "phone":"08 9586 4400",
+      "website":"/service-a/Mandaruh_Community_Health_Centre",
+      "email":"David.Gaskell@health.wa.gov.au"
+    },
+    {
+      "name":"Cardiac Rehabilitation Wheatbelt",
+      "address":"28 Johnston Street Wickepin, WA 6370",
+      "location":{
+        "lat":-32.783456,
+        "lng":117.499666
+      },
+      "tags":"",
+      "phone":"08 9622 4320",
+      "website":"/service-a/Cardiac_Rehabilitation_Wheatbelt",
+      "email":"karen.beardsmore@health.wa.gov.au"
+    },
+    {
+      "name":"Eastern Health Cardiac / Heart Failure Rehabilitation Programs",
+      "address":"251 Mountain Highway Wantirna, VIC 3152",
+      "location":{
+        "lat":-37.8482591,
+        "lng":145.2261797
+      },
+      "tags":"",
+      "phone":"0408 579 066",
+      "website":"/service-a/Eastern_Health_Cardiac_Heart_Failure_Rehabilitation_Programs",
+      "email":"cardiacrehab@easternhealth.org.au"
+    }
+  ]
+}
