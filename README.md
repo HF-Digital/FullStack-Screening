@@ -27,5 +27,5 @@ The results should display:
 **How to submit this challenge:**
 
 1.	Deploy the frontend and backend of your application using free services.
-2.	Create a pull request with as the reviewer.
+2.	Create branch with your name and create a pull request https://github.com/HF-Digital/Fullstack-Screening.git with as the reviewer.
 
