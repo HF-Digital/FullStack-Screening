@@ -4,7 +4,7 @@ we’d like you to complete a coding challenge.
 
 **The Project**
 
-You will be building a simple application using the JSON file data.json list of cardiac service directory. You will need to take this JSON data and persist it in a backend database of your choice like mongodb or sql. You will then develop a backend API using node or express, to be called upon by a frontend with a basic html and css button, which will display the data.
+You will be building a simple application using the JSON file cardiac-service-data.json list of cardiac service directory. You will need to take this JSON data and persist it in a backend database of your choice like mongodb or sql. You will then develop a backend API using node or express, to be called upon by a frontend with a basic html and css button, which will display the data.
 
 The results should display:
 
